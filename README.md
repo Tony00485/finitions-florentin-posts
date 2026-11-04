@@ -28,7 +28,7 @@ Qualibat (peinture, ravalement, plaques de plâtre), mention RGE (isolation ther
 - Instagram + Facebook : 5 posts (jeu, ven, sam, dim, lun). 12 h 30 en semaine, 10 h le week-end.
 - LinkedIn : 3 posts (jeu, ven, lun) à 8 h 30, avec une légende LinkedIn **différente** (plus rédigée, sans hashtags en rafale).
 - Le samedi : post photo (carte photo, `tools/render.py` layout `photo`). Les autres jours : cartes typographiques.
-- Google Business : 1 texte/semaine le jeudi, publié à la main par le gérant (non connecté) — à préparer dans `google_semaine.md`.
+- Google Business : 1 post/semaine le jeudi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image de la carte du jour). Connecté depuis le 04/11/2026.
 - Format : PNG 1080×1350 (4:5).
 
 ## Outils
