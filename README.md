@@ -31,6 +31,12 @@ Qualibat (peinture, ravalement, plaques de plâtre), mention RGE (isolation ther
 - Google Business : 1 post/semaine le jeudi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image de la carte du jour). Connecté depuis le 04/11/2026.
 - Format : PNG 1080×1350 (4:5).
 
+## LinkedIn personnel d'Anthony (marque Metricool « Anthony D'ORAZIO », blogId 7872561)
+- 2 posts par semaine, **mardi et mercredi à 8 h 30** (jours sans post de la page). `providers` linkedin, `linkedinData.type=post`.
+- C'est Anthony qui parle : **première personne** (« je », « mon père et moi », « mon frère Jordan et moi »). **Ne jamais inventer de souvenir, d'anecdote, d'opinion ou de fait personnel** : uniquement des faits confirmés (voir plus haut) et des conseils de métier neutres.
+- Contenu majoritairement différent de la page ; parfois le même sujet quand il est important (décennale, dégât des eaux, qualifications). Certains posts en **texte seul** (sans image), d'autres avec une carte du dépôt.
+- Déjà programmés : 10/11 histoire, 11/11 support avant peinture, 17/11 devis + décennale, 18/11 dégât des eaux.
+
 ## Outils
 - `tools/render.py spec.json dossier_sortie` : rend les cartes (voir en-tête du script). Mises en page :
   - `lst(theme,kicker,titre,[(libellé,valeur),...],top=620)` (top=700 si le titre fait 3 lignes) — thèmes : blanc, bleu, ciel, pierre
