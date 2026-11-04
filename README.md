@@ -28,14 +28,14 @@ Qualibat (peinture, ravalement, plaques de plâtre), mention RGE (isolation ther
 - Instagram + Facebook : 5 posts (jeu, ven, sam, dim, lun). 12 h 30 en semaine, 10 h le week-end.
 - LinkedIn : 3 posts (jeu, ven, lun) à 8 h 30, avec une légende LinkedIn **différente** (plus rédigée, sans hashtags en rafale).
 - Le samedi : post photo (carte photo, `tools/render.py` layout `photo`). Les autres jours : cartes typographiques.
-- Google Business : 2 posts/semaine, le jeudi et le lundi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image d'une carte de la semaine, texte rédigé dans le style Google ci-dessous). Connecté depuis le 04/11/2026. Déjà programmés : 4/11 (publié), 6/11, 9/11, 12/11, 16/11, 19/11, 23/11, 26/11, 30/11, 3/12, 7/12.
+- Google Business : 2 posts/semaine, le jeudi et le lundi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image d'une carte de la semaine, texte rédigé dans le style Google ci-dessous). Connecté depuis le 04/11/2026. Déjà programmés : 4/11 (publié), 6/11, 9/11, 12/11, 16/11, 19/11, 23/11, 26/11, 30/11, 3/12, 7/12, 10/12, 14/12.
 - Format : PNG 1080×1350 (4:5).
 
 ## LinkedIn personnel d'Anthony (marque Metricool « Anthony D'ORAZIO », blogId 7872561)
 - 2 posts par semaine, **mardi et mercredi à 8 h 30** (jours sans post de la page). `providers` linkedin, `linkedinData.type=post`.
 - C'est Anthony qui parle : **première personne** (« je », « mon père et moi », « mon frère Jordan et moi »). **Ne jamais inventer de souvenir, d'anecdote, d'opinion ou de fait personnel** : uniquement des faits confirmés (voir plus haut) et des conseils de métier neutres.
 - Contenu majoritairement différent de la page ; parfois le même sujet quand il est important (décennale, dégât des eaux, qualifications). Certains posts en **texte seul** (sans image), d'autres avec une carte du dépôt.
-- Déjà programmés : 10/11 histoire, 11/11 support avant peinture, 17/11 devis + décennale, 18/11 dégât des eaux.
+- Déjà programmés : 10/11 histoire, 11/11 support avant peinture, 17/11 devis + décennale, 18/11 dégât des eaux, 15/12 peinture en dernier (texte seul), 16/12 bandes à joints. Pas encore de posts perso les 24/11, 25/11, 1/12, 2/12, 8/12, 9/12.
 
 ## Outils
 - `tools/render.py spec.json dossier_sortie` : rend les cartes (voir en-tête du script). Mises en page :

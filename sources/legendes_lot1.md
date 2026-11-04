@@ -293,3 +293,11 @@ Mêmes légendes courtes, sans mention de matériaux ni de prix.
 - **ph_courbe** : Un plafond courbe en plâtrerie et peinture : des lignes nettes, des finitions soignées. Réalisé par Finitions Florentin. #plâtrerie #peinture #fauxplafond #Lyon
 - **ph_terracotta** : Des teintes chaudes, des lignes nettes. Réalisé par Finitions Florentin. #peinture #décoration #rénovation #Lyon
 - **ph_feuillage** : Un papier peint feuillage, posé avec précision. Réalisé par Finitions Florentin. #papierpeint #décoration #rénovation #Lyon
+
+## Semaine du 10 au 14/12/2026 (programmée le 04/11/2026)
+- **2026-12-10 n_humidite (vrai/faux, fond blanc)** — IG/FB : Repeindre sur une tache d'humidité règle le problème ? Faux. Tant que la cause n'est pas traitée, l'humidité revient et abîme la peinture. On traite d'abord la source, puis on repeint. #peinture #humidité #rénovation #lyon. LinkedIn page 8 h 30 et Google 9 h (image google/) programmés.
+- **2026-12-11 n_couleur (liste, fond bleu)** — bien choisir sa couleur : tester sur le mur, plusieurs heures, éclairage, séchage.
+- **2026-12-12 ph_arches (photo 71, samedi 10 h)** — Des arches peintes aux lignes nettes. Réalisé par Finitions Florentin.
+- **2026-12-13 n_bandes (question, fond pierre)** — à quoi servent les bandes à joints.
+- **2026-12-14 n_avant_devis (coches, fond ciel)** — pour chiffrer : pièces, état des supports, projet. LinkedIn page 8 h 30 et Google 9 h (image google/).
+- LinkedIn perso Anthony : 15/12 peinture en dernier (texte seul), 16/12 bandes à joints (carte n_bandes).

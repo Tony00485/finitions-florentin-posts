@@ -1,6 +1,6 @@
 {
  "dernier_fond": "ciel",
- "programme_jusqu_au": "2026-12-07",
+ "programme_jusqu_au": "2026-12-14",
  "posts": [
   {
    "date": "2026-11-04",
@@ -163,9 +163,43 @@
    "image": "s2_laque_pourquoi",
    "sujet": "laque boiseries",
    "fond": "ciel"
+  },
+  {
+   "date": "2026-12-10",
+   "image": "n_humidite",
+   "sujet": "vrai ou faux : repeindre sur une tache d'humidité",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-12-11",
+   "image": "n_couleur",
+   "sujet": "bien choisir sa couleur",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-12-12",
+   "image": "ph_arches",
+   "sujet": "photo arches peintes",
+   "fond": "photo"
+  },
+  {
+   "date": "2026-12-13",
+   "image": "n_bandes",
+   "sujet": "bandes à joints",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-12-14",
+   "image": "n_avant_devis",
+   "sujet": "avant le devis",
+   "fond": "ciel"
   }
  ],
  "non_utilise": [
   "n_etapes (déroulement du chantier)"
- ]
+ ],
+ "perso_linkedin": {
+  "2026-12-15": "peinture en dernier dans le planning (texte seul)",
+  "2026-12-16": "bandes à joints (carte n_bandes)"
+ }
 }
