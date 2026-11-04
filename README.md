@@ -65,5 +65,5 @@ Structure à respecter à chaque post Google Business (gmb, type publication, im
 2. Une courte phrase d'explication, puis 2 à 4 puces « ✔ » (une idée par puce).
 3. Une phrase « Chez FINITIONS FLORENTIN, nous… » (nom de l'entreprise en majuscules).
 4. Pied de post fixe : « 📍 Intervention à Lyon et alentours » puis « 📞 Devis gratuit – contactez-nous au 07 87 85 93 06 ».
-Paragraphes aérés (ligne vide entre blocs), pas de hashtags obligatoires. Mêmes règles absolues que le reste (pas de prix, délais, chiffres inventés, marques).
+Paragraphes aérés (ligne vide entre blocs), 5 hashtags en fin de post, séparés du pied de post par une ligne vide (ex. #PeintreLyon #RenovationLyon #ArtisanLyon + un hashtag du sujet + #FinitionsFlorentin). Mêmes règles absolues que le reste (pas de prix, délais, chiffres inventés, marques).
 Les 5 posts Google du 5/11 au 3/12 ont été réécrits dans ce style le 04/11/2026.
