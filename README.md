@@ -70,7 +70,7 @@ Les 5 posts Google du 5/11 au 3/12 ont été réécrits dans ce style le 04/11/2
 
 ## Dates spéciales (à traiter automatiquement, sans que le gérant le demande)
 Quand la semaine programmée contient une de ces dates, remplace le post du jour (ou ajoute-le) par un post de vœux, sobre, au « nous », sans promo, sans prix, sans horaires ni fermeture inventés :
-- 24/12 : vœux de Noël (carte typographique, ex. « Joyeux Noël »).
+- 24/12 : « Belles fêtes de fin d'année » (JAMAIS « Joyeux Noël » : Noël est religieux et pas fêté par tout le monde, consigne du gérant). Carte typographique sobre, sans symbole religieux.
 - 31/12 ou 01/01 : vœux de bonne année 2027 (carte « Bonne année 2027 », remerciement aux clients, souhait de projets réussis). Publier le 01/01 à 10 h sur Instagram, Facebook, LinkedIn page (8 h 30) et Google (9 h), plus un message d'Anthony à la première personne sur son LinkedIn perso (texte seul, sincère, sans anecdote inventée).
-- Ensuite : un message de vœux est de même prévu chaque année pour Noël et le Nouvel An ; pour toute autre date marquante (rentrée, printemps), rester sur du contenu utile, sans promotion.
+- Ensuite : même principe chaque année : « belles fêtes de fin d'année » le 24/12 et vœux de bonne année le 1er janvier ; pour toute autre date marquante (rentrée, printemps), rester sur du contenu utile, sans promotion.
 Vérifier dans etat.json que le post de vœux n'a pas déjà été programmé.
