@@ -1,0 +1,165 @@
+{
+ "dernier_fond": "ciel",
+ "programme_jusqu_au": "2026-12-07",
+ "posts": [
+  {
+   "date": "2026-11-04",
+   "image": "n_geant",
+   "sujet": "un seul interlocuteur",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-11-05",
+   "image": "s1_jeu_finition",
+   "sujet": "finition par surface",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-11-06",
+   "image": "s1_ven_devis",
+   "sujet": "bon devis",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-11-07",
+   "image": "s1_sam_protection",
+   "sujet": "protection chantier",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-11-08",
+   "image": "s1_dim_souscouche",
+   "sujet": "sous-couche vrai/faux",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-11-09",
+   "image": "s1_lun_parevapeur",
+   "sujet": "pare-vapeur",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-11-12",
+   "image": "n_confiance",
+   "sujet": "qualifications et assurances",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-11-13",
+   "image": "n_histoire",
+   "sujet": "histoire",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-11-14",
+   "image": "ph_cuisine",
+   "sujet": "photo cuisine",
+   "fond": "photo"
+  },
+  {
+   "date": "2026-11-15",
+   "image": "n_placo_usages",
+   "sujet": "types de plaques",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-11-16",
+   "image": "n_placo_hydro",
+   "sujet": "hydrofuge et douche",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-11-19",
+   "image": "s2_decennale",
+   "sujet": "décennale",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-11-20",
+   "image": "n_metiers",
+   "sujet": "cinq métiers",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-11-21",
+   "image": "ph_courbe",
+   "sujet": "photo faux plafond courbe",
+   "fond": "photo"
+  },
+  {
+   "date": "2026-11-22",
+   "image": "n_isolants",
+   "sujet": "trois isolants",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-11-23",
+   "image": "n_dephasage",
+   "sujet": "déphasage",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-11-26",
+   "image": "n_engagements",
+   "sujet": "engagements",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-11-27",
+   "image": "s3_murs",
+   "sujet": "peinture murs A+",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-11-28",
+   "image": "ph_terracotta",
+   "sujet": "photo mur terracotta",
+   "fond": "photo"
+  },
+  {
+   "date": "2026-11-29",
+   "image": "s3_plafonds",
+   "sujet": "peinture plafonds",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-11-30",
+   "image": "s3_normes",
+   "sujet": "air intérieur COV",
+   "fond": "bleu"
+  },
+  {
+   "date": "2026-12-03",
+   "image": "n_cee",
+   "sujet": "CEE",
+   "fond": "blanc"
+  },
+  {
+   "date": "2026-12-04",
+   "image": "s3_sinistre",
+   "sujet": "dégât des eaux",
+   "fond": "ciel"
+  },
+  {
+   "date": "2026-12-05",
+   "image": "ph_feuillage",
+   "sujet": "photo papier peint feuillage",
+   "fond": "photo"
+  },
+  {
+   "date": "2026-12-06",
+   "image": "s3_plomb",
+   "sujet": "peinture au plomb",
+   "fond": "pierre"
+  },
+  {
+   "date": "2026-12-07",
+   "image": "s2_laque_pourquoi",
+   "sujet": "laque boiseries",
+   "fond": "ciel"
+  }
+ ],
+ "non_utilise": [
+  "n_etapes (déroulement du chantier)"
+ ]
+}
