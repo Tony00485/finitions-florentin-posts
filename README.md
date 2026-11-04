@@ -67,3 +67,10 @@ Structure à respecter à chaque post Google Business (gmb, type publication, im
 4. Pied de post fixe : « 📍 Intervention à Lyon et alentours » puis « 📞 Devis gratuit – contactez-nous au 07 87 85 93 06 ».
 Paragraphes aérés (ligne vide entre blocs), 5 hashtags en fin de post, séparés du pied de post par une ligne vide (ex. #PeintreLyon #RenovationLyon #ArtisanLyon + un hashtag du sujet + #FinitionsFlorentin). Mêmes règles absolues que le reste (pas de prix, délais, chiffres inventés, marques).
 Les 5 posts Google du 5/11 au 3/12 ont été réécrits dans ce style le 04/11/2026.
+
+## Dates spéciales (à traiter automatiquement, sans que le gérant le demande)
+Quand la semaine programmée contient une de ces dates, remplace le post du jour (ou ajoute-le) par un post de vœux, sobre, au « nous », sans promo, sans prix, sans horaires ni fermeture inventés :
+- 24/12 : vœux de Noël (carte typographique, ex. « Joyeux Noël »).
+- 31/12 ou 01/01 : vœux de bonne année 2027 (carte « Bonne année 2027 », remerciement aux clients, souhait de projets réussis). Publier le 01/01 à 10 h sur Instagram, Facebook, LinkedIn page (8 h 30) et Google (9 h), plus un message d'Anthony à la première personne sur son LinkedIn perso (texte seul, sincère, sans anecdote inventée).
+- Ensuite : un message de vœux est de même prévu chaque année pour Noël et le Nouvel An ; pour toute autre date marquante (rentrée, printemps), rester sur du contenu utile, sans promotion.
+Vérifier dans etat.json que le post de vœux n'a pas déjà été programmé.
