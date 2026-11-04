@@ -28,7 +28,7 @@ Qualibat (peinture, ravalement, plaques de plâtre), mention RGE (isolation ther
 - Instagram + Facebook : 5 posts (jeu, ven, sam, dim, lun). 12 h 30 en semaine, 10 h le week-end.
 - LinkedIn : 3 posts (jeu, ven, lun) à 8 h 30, avec une légende LinkedIn **différente** (plus rédigée, sans hashtags en rafale).
 - Le samedi : post photo (carte photo, `tools/render.py` layout `photo`). Les autres jours : cartes typographiques.
-- Google Business : 1 post/semaine le jeudi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image de la carte du jour). Connecté depuis le 04/11/2026.
+- Google Business : 2 posts/semaine, le jeudi et le lundi à 9 h, via Metricool (`providers` gmb, `gmbData.type=publication`, texte court ≤ 1500 caractères, image d'une carte de la semaine, texte rédigé dans le style Google ci-dessous). Connecté depuis le 04/11/2026. Déjà programmés : 4/11 (publié), 6/11, 9/11, 12/11, 16/11, 19/11, 23/11, 26/11, 30/11, 3/12, 7/12.
 - Format : PNG 1080×1350 (4:5).
 
 ## LinkedIn personnel d'Anthony (marque Metricool « Anthony D'ORAZIO », blogId 7872561)
