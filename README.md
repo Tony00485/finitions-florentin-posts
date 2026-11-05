@@ -91,3 +91,9 @@ Les cartes sont rendues avec le pied « finitionsflorentin.fr · Lyon » (tools/
 
 ## VARIÉTÉ VISUELLE (consigne du gérant, 05/11/2026)
 Les cartes ne doivent pas toutes se ressembler (les 3 traits rouge/bleu/noir en haut + même mise en page = lassant). Chaque semaine : au moins 2 posts IG/FB avec une vraie photo du dossier photos/ (mise en page « photo » ou photo seule), pas deux fois de suite la même mise en page ni le même fond, et les traits du haut sur une carte sur deux seulement. Relire chaque légende et chaque ligne de carte : tout doit être clair et vrai, sans formule vague.
+
+## Finitions de peinture (précision du gérant, 05/11/2026) : ne jamais figer de règle
+Murs : mat, velours OU satiné selon le rendu voulu. Boiseries : satiné, voire brillant. Plafonds : mat en général. Pièces humides : peinture adaptée à l'humidité. Toujours formuler en choix possibles (« au choix selon le rendu »), jamais « mat = plafonds uniquement ».
+
+## CONTRÔLE QUALITÉ AVANT PROGRAMMATION (le gérant n'est pas toujours là pour corriger)
+Pour chaque post, avant de programmer : (1) chaque affirmation technique est confirmée par une recherche web sur une source sérieuse (DTU, fabricants, ADEME, service-public) ; sinon, la reformuler en « selon les cas » ou abandonner le sujet ; (2) pas de règle absolue du type « X = Y uniquement » : un métier a presque toujours plusieurs options ; (3) chaque ligne de carte doit se comprendre seule par un particulier, sans jargon vague ; (4) relire la carte à l'image et la légende côte à côte : mêmes faits ; (5) en cas de doute, ne pas programmer ce post.
