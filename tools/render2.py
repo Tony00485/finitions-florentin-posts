@@ -48,6 +48,9 @@ def html_photo(c):
 <body><img class="ph" src="{ph}"><img class="lg" src="{L}"><div class="k">{c["kick"]}</div><div class="t">{c["title"]}</div><div class="s">{c.get("sub","")}</div>
 <div class="foot"><div class="fl">{c["foot"]}<small>{"Lyon et alentours" if c.get("nosite") else "finitionsflorentin.fr · Lyon"}</small></div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>'''
 def html(c):
+    c=dict(c)
+    for k in ('title','kick','sub','note','intro','foot'):
+        if c.get(k): c[k]=c[k].replace(' ?','&nbsp;?').replace(' :','&nbsp;:').replace(' !','&nbsp;!')
     if c['kind']=='photo': return html_photo(c)
     T=TH[c['theme']]
     logo=f'<img class="lg" src="{LW if T["dark"] else L}">'
