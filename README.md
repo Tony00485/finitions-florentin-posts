@@ -99,3 +99,13 @@ Murs : mat, velours OU satiné selon le rendu voulu. Boiseries : satiné, voire 
 Pour chaque post, avant de programmer : (1) chaque affirmation technique est confirmée par une recherche web sur une source sérieuse (DTU, fabricants, ADEME, service-public) ; sinon, la reformuler en « selon les cas » ou abandonner le sujet ; (2) pas de règle absolue du type « X = Y uniquement » : un métier a presque toujours plusieurs options ; (3) chaque ligne de carte doit se comprendre seule par un particulier, sans jargon vague ; (4) relire la carte à l'image et la légende côte à côte : mêmes faits ; (5) en cas de doute, ne pas programmer ce post.
 
 Option de rendu : `"nobars": true` dans l'objet de spec de tools/render.py supprime les 3 traits du haut. Utiliser sur au moins une carte typographique sur deux.
+
+## NOUVEAU STYLE VALIDÉ PAR LE GÉRANT (05/11/2026) : tools/render2.py — À UTILISER POUR TOUTES LES CARTES
+`python3 tools/render2.py spec.json dossier_sortie` (voir l'en-tête du script). Logo posé sans bulle, angles droits partout, petit titre rouge, grand titre, trait rouge, contenu, bandeau de pied coloré avec phrase + bouton « Devis gratuit ».
+- Thèmes à faire tourner (jamais deux fois le même d'affilée) : marine, pierre, ciel, blanc, degrade. Le ton pierre doit revenir chaque semaine.
+- Mises en page (kind) à varier : checks, numbers, tiles (4 cases), stat (grand chiffre ou « NON »), duo, photo (photo de chantier en haut + titre + bandeau).
+- Au moins 2 posts photo par semaine (kind photo).
+- Textes courts et lisibles sur téléphone ; ne pas surcharger.
+- Version Google : même carte avec `"nosite": true` (pied « Lyon et alentours », sans site), copiée dans google/.
+- L'ancien tools/render.py (cartes à 3 traits) n'est plus utilisé.
+- Histoire de l'entreprise : créée en 2005 par Anthony et son père ; Jordan a rejoint l'équipe bien avant 2019 (année exacte inconnue : ne jamais l'inventer) ; depuis 2019 Anthony et Jordan dirigent l'entreprise.
