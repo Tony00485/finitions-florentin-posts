@@ -1,6 +1,6 @@
 {
  "dernier_fond": "ciel",
- "programme_jusqu_au": "2026-12-14",
+ "programme_jusqu_au": "2026-11-16",
  "posts": [
   {
    "date": "2026-11-04",
@@ -201,5 +201,88 @@
  "perso_linkedin": {
   "2026-12-15": "peinture en dernier dans le planning (texte seul)",
   "2026-12-16": "bandes à joints (carte n_bandes)"
+ },
+ "nouveau_depart": {
+  "date": "2026-11-05",
+  "programme_jusqu_au": "2026-11-16",
+  "posts": [
+   {
+    "date": "2026-11-06",
+    "image": "lancement",
+    "sujet": "lancement carrousel 5 métiers"
+   },
+   {
+    "date": "2026-11-07",
+    "image": "ph_protection",
+    "sujet": "protection chantier (photo bâche)"
+   },
+   {
+    "date": "2026-11-08",
+    "image": "n_souscouche",
+    "sujet": "sous-couche idée reçue"
+   },
+   {
+    "date": "2026-11-09",
+    "image": "n_parevapeur",
+    "sujet": "pare-vapeur"
+   },
+   {
+    "date": "2026-11-10",
+    "image": "n_devis",
+    "sujet": "bon devis"
+   },
+   {
+    "date": "2026-11-11",
+    "image": "ph_artdeco",
+    "sujet": "papier peint art déco (photo)"
+   },
+   {
+    "date": "2026-11-12",
+    "image": "n_confiance",
+    "sujet": "qualifications et assurances"
+   },
+   {
+    "date": "2026-11-13",
+    "image": "n_histoire",
+    "sujet": "histoire de l'entreprise"
+   },
+   {
+    "date": "2026-11-14",
+    "image": "ph_cuisine",
+    "sujet": "photo cuisine bordeaux"
+   },
+   {
+    "date": "2026-11-15",
+    "image": "n_placo_usages",
+    "sujet": "types de plaques"
+   },
+   {
+    "date": "2026-11-16",
+    "image": "n_placo_hydro",
+    "sujet": "hydrofuge et douche"
+   }
+  ],
+  "google": [
+   {
+    "date": "2026-11-06",
+    "sujet": "présentation peintre plâtrier Lyon 6e"
+   },
+   {
+    "date": "2026-11-09",
+    "sujet": "isolation intérieure Lyon RGE"
+   },
+   {
+    "date": "2026-11-11",
+    "sujet": "pose papier peint Lyon"
+   },
+   {
+    "date": "2026-11-13",
+    "sujet": "artisan qualifié Qualibat RGE"
+   },
+   {
+    "date": "2026-11-16",
+    "sujet": "quelle plaque de plâtre"
+   }
+  ]
  }
 }
