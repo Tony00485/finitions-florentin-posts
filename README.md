@@ -119,3 +119,5 @@ Les anciens posts programmés sont passés en BROUILLON avec le texte « [ANCIEN
 - **Téléphone : jamais nulle part.**
 - Les sujets et textes des anciens posts (sources/legendes_lot1.md) sont vérifiés et peuvent être réutilisés, redessinés avec render2 (non encore publiés depuis le nouveau départ : décennale, 5 métiers, plafond courbe, isolants, déphasage, engagements, peinture A+/COV, terracotta, CEE, sinistre, feuillage, plomb, laque, humidité, couleur, arches, bandes à joints, avant devis).
 - Déjà programmé depuis le nouveau départ : du 06/11 au 16/11 (voir etat.json).
+
+- PAS DE CARROUSEL sans accord explicite du gérant (05/11/2026) : une seule image par post.
