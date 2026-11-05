@@ -46,7 +46,7 @@ def html_photo(c):
 .fl{{font-size:28px;font-weight:700;line-height:1.3;color:{T["fl"]}}}.fl small{{display:block;font-size:20px;font-weight:600;opacity:.85}}
 .btn{{background:{T["btn"]};color:{T["btnt"]};font-size:30px;font-weight:800;padding:26px 48px}}</style>
 <body><img class="ph" src="{ph}"><img class="lg" src="{L}"><div class="k">{c["kick"]}</div><div class="t">{c["title"]}</div><div class="s">{c.get("sub","")}</div>
-<div class="foot"><div class="fl">{c["foot"]}<small>finitionsflorentin.fr · Lyon</small></div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>'''
+<div class="foot"><div class="fl">{c["foot"]}<small>{"Lyon et alentours" if c.get("nosite") else "finitionsflorentin.fr · Lyon"}</small></div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>'''
 def html(c):
     if c['kind']=='photo': return html_photo(c)
     T=TH[c['theme']]
@@ -76,7 +76,7 @@ def html(c):
 .btn{{background:{T["btn"]};color:{T["btnt"]};font-size:30px;font-weight:800;padding:26px 48px;border-radius:0}}</style>
 <body>{logo}<div class="k">{c["kick"]}</div><div class="t">{c["title"]}</div>
 <div class="rule" id="rule"></div>{intro}<div class="body" id="body">{body(c,T)}</div>{note}
-<div class="foot"><div class="fl">{c["foot"]}<small>finitionsflorentin.fr · Lyon</small></div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>
+<div class="foot"><div class="fl">{c["foot"]}<small>{"Lyon et alentours" if c.get("nosite") else "finitionsflorentin.fr · Lyon"}</small></div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>
 <script>(function(){{
 const t=document.querySelector('.t'),r=document.getElementById('rule'),b=document.getElementById('body'),i=document.querySelector('.intro'),n=document.querySelector('.note');
 let y=t.offsetTop+t.offsetHeight+28; r.style.top=y+'px'; y+=7+34;
