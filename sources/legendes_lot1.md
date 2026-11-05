@@ -6,12 +6,12 @@ Règles : vouvoiement, aucun prix ni délai, aucune mention de l'équipe ni de s
 
 **Instagram / Facebook**
 Mat, velours ou satin : le bon choix dépend de la surface.
-Mat pour les plafonds, velours pour les murs et les pièces de vie, satin pour les boiseries, les portes et les plinthes. Dans une pièce humide, tout dépend de la ventilation : si besoin, nous choisissons une peinture plus résistante.
+Mat pour les plafonds, velours pour les murs et les pièces de vie, satin pour les boiseries, les portes et les plinthes. Dans une pièce humide (cuisine, salle de bains), nous choisissons une peinture adaptée à l’humidité.
 Un doute sur votre projet ? Devis gratuit : [numéro retiré]
 #peinture #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
-Mat, velours, satin : la finition se choisit surface par surface. Mat pour les plafonds, velours pour les murs et les pièces de vie, satin pour les boiseries, les portes et les plinthes. En pièce humide, nous adaptons le produit selon la ventilation.
+Mat, velours, satin : la finition se choisit surface par surface. Mat pour les plafonds, velours pour les murs et les pièces de vie, satin pour les boiseries, les portes et les plinthes. En pièce humide, nous choisissons une peinture adaptée à l’humidité.
 Chez Finitions Florentin, la peinture est une affaire de préparation autant que de produit. Devis gratuit sur finitionsflorentin.fr
 
 ## 2. Une sous-couche, c'est facultatif ? (vrai ou faux)

@@ -50,7 +50,7 @@ def vf(t,kicker,statement,verdict,expl):
 <div class="exp">{expl}</div>
 <div class="contact" style="color:{T["cont"]}"><span>{kicker}</span><em style="color:{T["cta"]}">Devis gratuit →</em></div></body>'''
 cards={
- "s1_jeu_finition": lst("blanc","PEINTURE INTÉRIEURE","Quelle finition pour quelle surface ?",[("Mat","plafonds"),("Velours","murs et pièces de vie"),("Satin","boiseries, portes, plinthes"),("Pièces humides","produit adapté à la ventilation")],top=620),
+ "s1_jeu_finition": lst("blanc","PEINTURE INTÉRIEURE","Quelle finition pour quelle surface ?",[("Mat","plafonds"),("Velours","murs et pièces de vie"),("Satin","boiseries, portes, plinthes"),("Pièces humides","peinture adaptée à l’humidité")],top=620),
 }
 async def main():
     async with async_playwright() as p:
