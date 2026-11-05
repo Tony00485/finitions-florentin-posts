@@ -97,3 +97,5 @@ Murs : mat, velours OU satiné selon le rendu voulu. Boiseries : satiné, voire 
 
 ## CONTRÔLE QUALITÉ AVANT PROGRAMMATION (le gérant n'est pas toujours là pour corriger)
 Pour chaque post, avant de programmer : (1) chaque affirmation technique est confirmée par une recherche web sur une source sérieuse (DTU, fabricants, ADEME, service-public) ; sinon, la reformuler en « selon les cas » ou abandonner le sujet ; (2) pas de règle absolue du type « X = Y uniquement » : un métier a presque toujours plusieurs options ; (3) chaque ligne de carte doit se comprendre seule par un particulier, sans jargon vague ; (4) relire la carte à l'image et la légende côte à côte : mêmes faits ; (5) en cas de doute, ne pas programmer ce post.
+
+Option de rendu : `"nobars": true` dans l'objet de spec de tools/render.py supprime les 3 traits du haut. Utiliser sur au moins une carte typographique sur deux.

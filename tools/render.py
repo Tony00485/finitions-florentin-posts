@@ -36,6 +36,7 @@ async def main(spec,out):
         pg=await b.new_page(viewport={"width":1080,"height":1350})
         for c in spec:
             h=FN[c['layout']](*c.get('args',[]),**c.get('kwargs',{}))
+            if c.get('nobars'): h=re.sub(r'<div class="abs" style="left:0;top:\d+px;width:\d+px;height:22px;background:[^"]*"></div>','',h)
             await pg.set_content(f"<html>{h}</html>"); await pg.wait_for_timeout(500)
             await pg.screenshot(path=os.path.join(out,c['out']+'.png'))
             print('ok',c['out'])
