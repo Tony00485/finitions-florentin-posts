@@ -5,7 +5,7 @@ Ce dépôt est public : il sert d'hébergement d'images à Metricool (adresse
 et de mémoire au système. N'y mettre que des images destinées à être publiées.
 
 ## Client
-FINITIONS FLORENTIN, 3 rue de Genève 69006 Lyon, tél. 07 87 85 93 06, finitionsflorentin.fr,
+FINITIONS FLORENTIN, 3 rue de Genève 69006 Lyon, finitionsflorentin.fr,
 contact@finitionsflorentin.fr. Gérant : Anthony D'Orazio. Fondée en 2005, reprise en 2019 par Anthony et Jordan.
 Métiers : peinture, plâtrerie, isolation par l'intérieur, carrelage, revêtements de sols et de murs.
 Qualibat (peinture, ravalement, plaques de plâtre), mention RGE (isolation thermique par l'intérieur), RC Pro + décennale
@@ -80,3 +80,11 @@ Vérifier dans etat.json que le post de vœux n'a pas déjà été programmé.
 
 ## IMAGES des posts Google : jamais de téléphone ni de site dedans
 Les cartes IG/FB portent en pied « finitionsflorentin.fr · 07 87 85 93 06 » : INTERDIT sur Google (coordonnées non vérifiées → Google retire le post et peut bloquer les publications ; incident du 04/11/2026, l'erreur venait aussi de l'image, pas seulement du texte). Pour Google, utiliser les versions du dossier google/ (pied « FINITIONS FLORENTIN · Lyon »), ou créer une version sans coordonnées. Toujours REGARDER l'image avant de programmer un post Google : ni numéro, ni e-mail, ni adresse de site.
+
+
+## RÈGLE ABSOLUE (consigne du gérant, 05/11/2026) : JAMAIS de numéro de téléphone
+Le numéro de téléphone (07 87 85 93 06) ne doit apparaître NULLE PART : ni dans les images, ni dans les légendes, ni dans les posts Instagram, Facebook, LinkedIn, Google. Remplacer par :
+- Instagram / Facebook : « Devis gratuit : écrivez-nous en message privé. »
+- LinkedIn (page et perso) : « Devis gratuit sur finitionsflorentin.fr »
+- Google : « 💬 Devis gratuit – contactez-nous via notre fiche Google »
+Les cartes sont rendues avec le pied « finitionsflorentin.fr · Lyon » (tools/*.py corrigés). Le site finitionsflorentin.fr peut apparaître. Le dossier ig/ contient les images IG/FB/LinkedIn à jour sans numéro ; google/ celles pour Google.

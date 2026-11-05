@@ -9,7 +9,7 @@ TH={
  "pierre":dict(bg="#E8E4DD",t=B,k=R,tx="#5B6478",rule="rgba(30,59,125,.22)",logo=L,tile="rgba(255,255,255,.6)",dot=R),
 }
 def foot(T,cta=True):
-    return f'<div class="contact" style="color:{T["t"]}"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em style="color:{T["k"] if T["bg"]!=B else "#fff"}">Devis gratuit →</em></div>'
+    return f'<div class="contact" style="color:{T["t"]}"><span>finitionsflorentin.fr · Lyon</span><em style="color:{T["k"] if T["bg"]!=B else "#fff"}">Devis gratuit →</em></div>'
 def top(T,kick,bar=True):
     bs=[(R,700),(B if T["bg"]!=B else "#FFFFFF",820),("#000",560)]
     return bars(0,bs)+f'<img class="logo" src="{T["logo"]}" style="right:80px;top:120px"><div class="abs" style="left:80px;top:230px;font-weight:600;letter-spacing:7px;font-size:25px;color:{T["k"]}">{kick}</div>'

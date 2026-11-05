@@ -20,7 +20,7 @@ def html(k,kick,t,s):
     return f'''<html><style>{CSS}</style><body><img class="ph" src="{ph}">
 <div class="card"><div class="bar" style="top:0;width:300px;background:{R}"></div><div class="bar" style="top:10px;width:380px;background:{B}"></div><div class="bar" style="top:20px;width:220px;background:#000"></div>
 <div class="k" style="top:62px">{kick}</div><div class="t" style="top:102px">{t}</div><div class="s" style="top:226px">{s}</div>
-<img class="logo" src="{L}" style="top:66px"><div class="f"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em>Devis gratuit →</em></div></div></body></html>'''
+<img class="logo" src="{L}" style="top:66px"><div class="f"><span>finitionsflorentin.fr · Lyon</span><em>Devis gratuit →</em></div></div></body></html>'''
 async def main():
     async with async_playwright() as p:
         b=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])

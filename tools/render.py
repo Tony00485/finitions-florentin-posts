@@ -26,7 +26,7 @@ def photo(kick,title,sub,img,pos="50% 50%"):
 .logo{{position:absolute;right:44px;top:66px;width:250px}}
 .f{{position:absolute;left:44px;right:44px;bottom:30px;display:flex;justify-content:space-between;font-size:22px;font-weight:600}}
 .f em{{font-style:normal;color:{R};font-weight:800}}"""
-    return f'''<style>{css}</style><body><img class="ph" src="{ph}"><div class="card"><div class="bar" style="top:0;width:300px;background:{R}"></div><div class="bar" style="top:10px;width:380px;background:{Bl}"></div><div class="bar" style="top:20px;width:220px;background:#000"></div><div class="k">{kick}</div><div class="t">{title}</div><div class="s">{sub}</div><img class="logo" src="{L}"><div class="f"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em>Devis gratuit →</em></div></div></body>'''
+    return f'''<style>{css}</style><body><img class="ph" src="{ph}"><div class="card"><div class="bar" style="top:0;width:300px;background:{R}"></div><div class="bar" style="top:10px;width:380px;background:{Bl}"></div><div class="bar" style="top:20px;width:220px;background:#000"></div><div class="k">{kick}</div><div class="t">{title}</div><div class="s">{sub}</div><img class="logo" src="{L}"><div class="f"><span>finitionsflorentin.fr · Lyon</span><em>Devis gratuit →</em></div></div></body>'''
 FN={'lst':A['lst'],'qa':A['qa'],'vf':A['vf'],'frise':B['frise'],'pastilles':B['pastilles'],'geant':B['geant'],'tuiles':B['tuiles'],'coches':B['coches'],'confiance':B['confiance'],'photo':photo}
 async def main(spec,out):
     from playwright.async_api import async_playwright

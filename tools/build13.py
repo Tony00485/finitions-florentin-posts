@@ -22,7 +22,7 @@ h1{{position:absolute;left:80px;top:300px;width:920px;font-size:100px;line-heigh
 <img class="logo" src="{T["logo"]}" style="right:80px;top:120px">
 <div class="abs" style="left:80px;top:230px;font-weight:600;letter-spacing:7px;font-size:25px;color:{T["kick"]}">{kicker}</div>
 <h1>{title}</h1>{r}
-<div class="contact" style="color:{T["cont"]}"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em style="color:{T["cta"]}">Devis gratuit →</em></div></body>'''
+<div class="contact" style="color:{T["cont"]}"><span>finitionsflorentin.fr · Lyon</span><em style="color:{T["cta"]}">Devis gratuit →</em></div></body>'''
 def qa(t,kicker,q,label,ans):
     T=TH[t]
     return f'''<style>{BASE}
@@ -53,7 +53,7 @@ cards={
  "s1_jeu_finition": lst("blanc","PEINTURE INTÉRIEURE","Quelle finition pour quelle surface ?",[("Mat","plafonds"),("Velours","murs et pièces de vie"),("Satin","boiseries, portes, plinthes"),("Pièces humides","peinture dédiée")],top=620),
  "s1_ven_devis": lst("ciel","DEVIS","Un bon devis, c’est quoi ?",[("Travaux détaillés","pièce par pièce"),("Matériaux précisés","nature et qualité indiquées"),("Prix lisibles","HT, TVA et TTC"),("Délais et validité","annoncés clairement")],top=620),
  "s1_sam_protection": lst("bleu","CHANTIER","La protection, première étape du chantier.",[("Sols et parquets","bâche adaptée au support"),("Escaliers et meubles","couverts"),("Boiseries et prises","masquées"),("Poussière","ponçage avec aspiration")],top=700),
- "s1_dim_souscouche": vf("pierre","Devis gratuit : 07 87 85 93 06","Une sous-couche, c’est facultatif.","FAUX.","Elle uniformise le fond et évite une teinte finale irrégulière. Sans elle, le support boit la peinture de façon inégale."),
+ "s1_dim_souscouche": vf("pierre","Devis gratuit sur finitionsflorentin.fr","Une sous-couche, c’est facultatif.","FAUX.","Elle uniformise le fond et évite une teinte finale irrégulière. Sans elle, le support boit la peinture de façon inégale."),
  "s1_lun_parevapeur": qa("bleu","ISOLATION · LA QUESTION","À quoi sert le pare\u2011vapeur dans une isolation ?","SON RÔLE","Il limite le passage de l’humidité de la pièce vers l’isolant, qui perdrait sinon une partie de son efficacité."),
 }
 async def main():

@@ -20,7 +20,7 @@ h1{{position:absolute;left:80px;top:300px;width:920px;font-size:100px;line-heigh
 <img class="logo" src="{T["logo"]}" style="right:80px;top:120px">
 <div class="abs" style="left:80px;top:230px;font-weight:600;letter-spacing:7px;font-size:25px;color:{T["kick"]}">{kicker}</div>
 <h1>{title}</h1>{r}
-<div class="contact" style="color:{T["cont"]}"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em style="color:{T["cta"]}">Devis gratuit →</em></div></body>'''
+<div class="contact" style="color:{T["cont"]}"><span>finitionsflorentin.fr · Lyon</span><em style="color:{T["cta"]}">Devis gratuit →</em></div></body>'''
 def qa(t,kicker,q,label,ans):
     T=TH[t]
     return f'''<style>{BASE}
