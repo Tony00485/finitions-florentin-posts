@@ -7,7 +7,7 @@ Règles : vouvoiement, aucun prix ni délai, aucune mention de l'équipe ni de s
 **Instagram / Facebook**
 Mat, velours ou satin : le bon choix dépend de la surface.
 Mat pour les plafonds, velours pour les murs et les pièces de vie, satin pour les boiseries, les portes et les plinthes. Dans une pièce humide, tout dépend de la ventilation : si besoin, nous choisissons une peinture plus résistante.
-Un doute sur votre projet ? Devis gratuit : 07 87 85 93 06
+Un doute sur votre projet ? Devis gratuit : [numéro retiré]
 #peinture #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -19,7 +19,7 @@ Chez Finitions Florentin, la peinture est une affaire de préparation autant que
 **Instagram / Facebook**
 Faux. La sous-couche uniformise le fond et évite une teinte finale irrégulière.
 Sans elle, le support boit la peinture de façon inégale. C'est une étape qu'on ne voit pas, mais qu'on remarque tout de suite quand elle manque.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #peinture #astuce #bricolage #finitionsflorentin
 
 **LinkedIn**
@@ -31,7 +31,7 @@ Devis gratuit sur finitionsflorentin.fr
 **Instagram / Facebook**
 Le pare-vapeur limite le passage de l'humidité de la pièce vers l'isolant.
 Sans lui, l'isolant perd une partie de son efficacité. C'est un détail de pose qui change tout, et qu'on ne voit plus une fois le mur fermé.
-Un projet d'isolation par l'intérieur ? Devis gratuit : 07 87 85 93 06
+Un projet d'isolation par l'intérieur ? Devis gratuit : [numéro retiré]
 #isolation #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -43,7 +43,7 @@ Selon l'éligibilité du projet, certains travaux d'isolation peuvent ouvrir dro
 **Instagram / Facebook**
 Un bon devis se lit facilement.
 Travaux détaillés pièce par pièce, matériaux précisés, prix clairs en HT, TVA et TTC, délais et durée de validité annoncés.
-Vous comparez plusieurs devis ? Envoyez-nous le vôtre, nous vous répondons avec plaisir. Devis gratuit : 07 87 85 93 06
+Vous comparez plusieurs devis ? Envoyez-nous le vôtre, nous vous répondons avec plaisir. Devis gratuit : [numéro retiré]
 #devis #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -56,7 +56,7 @@ Confirmé par le gérant : RC décennale ; le numéro de contrat est sur chaque 
 **Instagram / Facebook**
 Avant de signer un devis, demandez l'attestation d'assurance décennale.
 Pendant 10 ans après la réception, elle couvre les dommages qui touchent la solidité de l'ouvrage, selon la nature des travaux. Une entreprise sérieuse doit pouvoir vous la fournir.
-Une question sur votre projet ? Devis gratuit : 07 87 85 93 06
+Une question sur votre projet ? Devis gratuit : [numéro retiré]
 #assurance #decennale #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -67,7 +67,7 @@ Devis gratuit sur finitionsflorentin.fr
 **Instagram / Facebook**
 Avant la première couche, on protège.
 Sols et parquets couverts d'une bâche adaptée au support, souvent autoadhésive : elle protège bien les parquets et reste facile à entretenir pendant le chantier. Escaliers et meubles protégés, boiseries et prises masquées, ponçage avec aspiration pour limiter la poussière.
-Un chantier propre commence par une bonne protection. Devis gratuit : 07 87 85 93 06
+Un chantier propre commence par une bonne protection. Devis gratuit : [numéro retiré]
 #peinture #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -80,7 +80,7 @@ Source : fiche technique du fabricant (janvier 2023). Aucun nom de produit ni de
 **Instagram / Facebook**
 Sur vos murs, nous utilisons une peinture velours classée A+ pour les émissions dans l'air intérieur (très faibles émissions).
 1 g/l de COV au maximum, classe 1 en résistance à l'abrasion humide, et un système 2 en 1 : impression et finition.
-Un projet de peinture ? Devis gratuit : 07 87 85 93 06
+Un projet de peinture ? Devis gratuit : [numéro retiré]
 #peinture #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -93,7 +93,7 @@ Source : fiche technique du fabricant (octobre 2024). Aucun nom de produit ni de
 **Instagram / Facebook**
 Sur vos plafonds, nous utilisons une peinture d'aspect mat minéral.
 Classée A+ pour les émissions dans l'air intérieur (très faibles émissions), 1 g/l de COV au maximum, monoproduit : impression et finition.
-Un projet de peinture ? Devis gratuit : 07 87 85 93 06
+Un projet de peinture ? Devis gratuit : [numéro retiré]
 #peinture #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -109,7 +109,7 @@ Remplacée par le n° 10, sans nom de produit.
 **Instagram / Facebook**
 Pour les portes, les plinthes et les boiseries, nous travaillons à la laque.
 Ce sont les zones les plus touchées d'une pièce : on les frotte, on les cogne, on les nettoie. La laque résiste mieux aux rayures et aux frottements, donne un rendu lisse sans trace de brosse et se nettoie plus facilement. Elle existe en satiné, en velours ou en mat : on choisit l'aspect selon le rendu souhaité.
-Un projet de peinture ? Devis gratuit : 07 87 85 93 06
+Un projet de peinture ? Devis gratuit : [numéro retiré]
 #peinture #laque #boiseries #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -123,7 +123,7 @@ Source : fiches techniques des fabricants (peintures murales, plafonds, laque po
 L'air de votre intérieur compte. En général, nous utilisons des peintures à base d'eau, classées A+ pour les émissions dans l'air intérieur (l'échelle va de A+, très faibles émissions, à C, fortes émissions).
 Côté COV (composés organiques volatils) : 1 g/l maximum pour nos peintures de murs et de plafonds, pour une limite européenne de 30 g/l. 100 g/l maximum pour nos laques de boiseries, pour une limite de 130 g/l.
 Ces chiffres figurent sur les fiches techniques des fabricants : nous pouvons vous les montrer.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #peinture #airinterieur #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -137,7 +137,7 @@ Sources : Service-public (CREP, seuil 1 mg/cm², logements d'avant 1949), FFB (p
 **Instagram / Facebook**
 Votre logement date d'avant 1949 ? Il peut contenir de la peinture au plomb.
 Le diagnostic (CREP) mesure sa présence : le seuil est de 1 mg/cm². Le ponçage et le grattage à sec sont à éviter, car ils produisent des poussières de plomb. Lorsque l'état du support le permet, l'encapsulation consiste à recouvrir l'ancienne peinture plutôt que de la décaper.
-Un doute sur votre logement ? Parlons-en : 07 87 85 93 06
+Un doute sur votre logement ? Parlons-en : [numéro retiré]
 #peinture #plomb #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -152,7 +152,7 @@ Source du délai : Institut national de la consommation (5 jours pour déclarer 
 Dégât des eaux, sinistre : nous réalisons les devis et les travaux de remise en état.
 Peinture, plâtrerie, sols : après une fuite ou un dégât, nous chiffrons précisément ce qu'il y a à refaire, avec un devis détaillé que vous pouvez transmettre à votre assureur.
 Pensez à déclarer le sinistre à votre assureur dans les 5 jours.
-Besoin d'un devis ? 07 87 85 93 06
+Besoin d'un devis ? [numéro retiré]
 #degatdeseaux #sinistre #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -164,7 +164,7 @@ Devis gratuit sur finitionsflorentin.fr
 ## 14. Notre histoire (frise)
 **Instagram / Facebook**
 Finitions Florentin, c'est une histoire de famille. Fondée à Lyon en 2005 par un artisan et son fils Anthony, rejointe ensuite par Jordan, l'entreprise est dirigée depuis 2019 par Anthony et Jordan. Une entreprise à taille humaine, avec le même souci du détail.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #entreprisefamiliale #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -175,7 +175,7 @@ Devis gratuit sur finitionsflorentin.fr
 ## 15. Nos 5 engagements
 **Instagram / Facebook**
 Nos 5 engagements pour chaque chantier : expertise et conseils, devis transmis rapidement et planning défini à l'avance, finitions soignées, un interlocuteur unique, un chantier propre et sécurisé.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -185,7 +185,7 @@ Devis gratuit sur finitionsflorentin.fr
 ## 16. Un seul interlocuteur
 **Instagram / Facebook**
 Un seul interlocuteur, du démarrage à la livraison. Peinture, plâtrerie, isolation, carrelage, sols : vous n'avez pas à coordonner plusieurs entreprises.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -195,7 +195,7 @@ Devis gratuit sur finitionsflorentin.fr
 ## 17. Cinq métiers
 **Instagram / Facebook**
 Peinture, plâtrerie, isolation, carrelage, revêtements de sols et de murs : cinq métiers réunis pour votre rénovation intérieure à Lyon.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #renovation #lyon #finitionsflorentin
 
 ## 18. CEE (isolation) — formulation validée par le gérant
@@ -204,7 +204,7 @@ Le client fait lui-même ses demandes pour les autres aides (ex. MaPrimeRénov')
 
 **Instagram / Facebook**
 Isolation : nous nous occupons du dossier CEE. Selon l'éligibilité de votre projet, la prime est déduite directement de votre facture. Pour les autres aides, la demande se fait de votre côté.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #isolation #cee #renovation #lyon #finitionsflorentin
 
 **LinkedIn**
@@ -214,7 +214,7 @@ Devis gratuit sur finitionsflorentin.fr
 ## 19. Déroulement d'un chantier
 **Instagram / Facebook**
 Votre chantier, étape par étape : un premier échange sur vos besoins, un devis gratuit clair et détaillé, un planning défini à l'avance, des points réguliers pendant les travaux, puis la livraison après les finitions.
-Devis gratuit : 07 87 85 93 06
+Devis gratuit : [numéro retiré]
 #renovation #lyon #finitionsflorentin
 
 ## n°20 — Qualifications et assurances (n_confiance.png, fond ciel)
@@ -222,7 +222,7 @@ Devis gratuit : 07 87 85 93 06
 **Instagram / Facebook**
 Qualibat pour la peinture, le ravalement et les plaques de plâtre. Mention RGE pour l’isolation thermique par l’intérieur. Assurance RC Pro et décennale, avec le numéro de police indiqué sur chacun de nos devis.
 
-Un projet de rénovation ? Devis gratuit sur finitionsflorentin.fr ou au 07 87 85 93 06.
+Un projet de rénovation ? Devis gratuit sur finitionsflorentin.fr ou au [numéro retiré].
 
 #qualibat #RGE #peinture #plâtrerie #isolation #Lyon #rénovation
 
@@ -238,7 +238,7 @@ Finitions Florentin, Lyon 6e, depuis 2005.
 **Instagram / Facebook**
 Toutes les plaques de plâtre ne se valent pas selon la pièce. Plaque standard pour les pièces sèches, hydrofuge pour les pièces humides, plaque feu pour la protection incendie, plaque phonique pour les chambres et les séparations.
 
-Le bon choix dépend de la pièce et de l’usage : nous vous conseillons lors du devis. Devis gratuit sur finitionsflorentin.fr ou au 07 87 85 93 06.
+Le bon choix dépend de la pièce et de l’usage : nous vous conseillons lors du devis. Devis gratuit sur finitionsflorentin.fr ou au [numéro retiré].
 
 #plâtrerie #placo #rénovation #Lyon #cloison
 
@@ -252,7 +252,7 @@ Standard, hydrofuge, feu, phonique : chaque type de plaque de plâtre répond à
 **Instagram / Facebook**
 Une plaque hydrofuge rend une douche étanche ? Faux. Elle résiste mieux à l’humidité, mais en zone de douche, un système d’étanchéité adapté reste nécessaire avant le carrelage.
 
-Une salle de bains à refaire ? Devis gratuit au 07 87 85 93 06.
+Une salle de bains à refaire ? Devis gratuit au [numéro retiré].
 
 #salledebain #douche #plâtrerie #carrelage #Lyon
 
@@ -280,7 +280,7 @@ Laine de verre, laine de roche ou laine de bois ? Chaque isolant a ses atouts : 
 **Instagram / Facebook**
 Isoler, ce n’est pas seulement garder la chaleur l’hiver. Un isolant à fort déphasage ralentit l’arrivée de la chaleur dans la pièce en été. La laine de bois y est réputée performante.
 
-Un projet d’isolation ? Devis gratuit au 07 87 85 93 06.
+Un projet d’isolation ? Devis gratuit au [numéro retiré].
 
 #isolation #confortdété #lainedebois #rénovation #Lyon
 
@@ -289,7 +289,7 @@ En été, le déphasage d’un isolant compte autant que sa performance thermiqu
 
 ## Photos (posts du samedi, Instagram / Facebook)
 Mêmes légendes courtes, sans mention de matériaux ni de prix.
-- **ph_cuisine** : Une cuisine aux finitions soignées. Réalisé par Finitions Florentin. Devis gratuit : 07 87 85 93 06. #peinture #rénovation #cuisine #Lyon
+- **ph_cuisine** : Une cuisine aux finitions soignées. Réalisé par Finitions Florentin. Devis gratuit : [numéro retiré]. #peinture #rénovation #cuisine #Lyon
 - **ph_courbe** : Un plafond courbe en plâtrerie et peinture : des lignes nettes, des finitions soignées. Réalisé par Finitions Florentin. #plâtrerie #peinture #fauxplafond #Lyon
 - **ph_terracotta** : Des teintes chaudes, des lignes nettes. Réalisé par Finitions Florentin. #peinture #décoration #rénovation #Lyon
 - **ph_feuillage** : Un papier peint feuillage, posé avec précision. Réalisé par Finitions Florentin. #papierpeint #décoration #rénovation #Lyon

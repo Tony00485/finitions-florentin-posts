@@ -22,7 +22,7 @@ h1{{position:absolute;left:80px;top:300px;width:920px;font-size:104px;line-heigh
 <div class="row" style="top:850px"><b>Reboucher et poncer</b><span>on rattrape trous et fissures</span></div>
 <div class="row" style="top:940px"><b>Sous-couche</b><span>elle uniformise le fond</span></div>
 <div class="row" style="top:1030px;border-bottom:2px solid #D8DBE2"><b>Deux couches</b><span>pour une teinte régulière</span></div>
-<div class="contact" style="color:{B}"><span>finitionsflorentin.fr · 07 87 85 93 06</span><em style="color:{R}">Devis gratuit →</em></div></body>'''
+<div class="contact" style="color:{B}"><span>finitionsflorentin.fr · Lyon</span><em style="color:{R}">Devis gratuit →</em></div></body>'''
 c2=f'''<style>{BASE}
 .q{{position:absolute;left:80px;top:330px;width:920px;font-size:92px;line-height:1.05;font-weight:800;letter-spacing:-2px;color:#fff}}
 .ans{{position:absolute;left:80px;right:80px;top:780px;background:#fff;color:{B};border-radius:8px;padding:50px 56px;border-left:16px solid {R}}}

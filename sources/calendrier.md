@@ -35,8 +35,8 @@ Les légendes portent le numéro de leur carte dans `legendes_lot1.md` (n° 1 à
 En réserve : n_geant (n°16), n_etapes (n°19), et les photos « étape » de chantier.
 
 ## Posts Google (1 par semaine, texte + image)
-- Jeu 05/11 (carte finition) : Quelle finition pour quelle surface ? Mat pour les plafonds, velours pour les murs, satin ou laque pour les boiseries. Finitions Florentin, peinture et plâtrerie à Lyon. Devis gratuit : 07 87 85 93 06.
-- Jeu 12/11 (carte qualifications) : Qualibat pour la peinture, le ravalement et les plaques de plâtre, mention RGE pour l'isolation par l'intérieur, RC Pro et décennale. Devis gratuit au 07 87 85 93 06.
+- Jeu 05/11 (carte finition) : Quelle finition pour quelle surface ? Mat pour les plafonds, velours pour les murs, satin ou laque pour les boiseries. Finitions Florentin, peinture et plâtrerie à Lyon. Devis gratuit : [numéro retiré].
+- Jeu 12/11 (carte qualifications) : Qualibat pour la peinture, le ravalement et les plaques de plâtre, mention RGE pour l'isolation par l'intérieur, RC Pro et décennale. Devis gratuit au [numéro retiré].
 - Jeu 19/11 (carte décennale) : La garantie décennale couvre, selon la nature des travaux, les dommages touchant la solidité de l'ouvrage pendant 10 ans après la réception. Demandez-la avant de signer. Finitions Florentin, Lyon 6e.
-- Jeu 26/11 (carte engagements) : Nos engagements : conseils, devis transmis rapidement, finitions soignées, un interlocuteur unique, chantier propre et sécurisé. Devis gratuit : 07 87 85 93 06.
-- Jeu 03/12 (carte CEE) : Isolation par l'intérieur : nous nous occupons du dossier CEE, la prime étant déduite de la facture selon éligibilité. Devis gratuit : 07 87 85 93 06.
+- Jeu 26/11 (carte engagements) : Nos engagements : conseils, devis transmis rapidement, finitions soignées, un interlocuteur unique, chantier propre et sécurisé. Devis gratuit : [numéro retiré].
+- Jeu 03/12 (carte CEE) : Isolation par l'intérieur : nous nous occupons du dossier CEE, la prime étant déduite de la facture selon éligibilité. Devis gratuit : [numéro retiré].

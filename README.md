@@ -79,11 +79,11 @@ Vérifier dans etat.json que le post de vœux n'a pas déjà été programmé.
 27 photos retouchées légèrement dans photos/ (NN_nom_beau.jpg). Utilisées déjà : 20 cuisine, 40 plafond courbe, 23 terracotta, 35 feuillage. Reste à exploiter : décoratives (61, 68, 52, 30, 78, 80, 69, 71, 50, 51), et techniques (44 placo sur ossature, 42 plaques+ponçage, 22/55/19/74 bandes à joints, 47 pare-vapeur, 45/46/43/49/58 isolation dont laine de bois). Regarder la photo avant d'écrire : ne décrire que ce qui est visible, jamais de retouche des défauts. Photo 64 (véhicules) : LinkedIn/Facebook seulement. Objectif : au moins 2 posts photo par semaine (IG/FB), et utiliser une photo en image des posts Google quand le sujet s'y prête (isolation, plâtrerie).
 
 ## IMAGES des posts Google : jamais de téléphone ni de site dedans
-Les cartes IG/FB portent en pied « finitionsflorentin.fr · 07 87 85 93 06 » : INTERDIT sur Google (coordonnées non vérifiées → Google retire le post et peut bloquer les publications ; incident du 04/11/2026, l'erreur venait aussi de l'image, pas seulement du texte). Pour Google, utiliser les versions du dossier google/ (pied « FINITIONS FLORENTIN · Lyon »), ou créer une version sans coordonnées. Toujours REGARDER l'image avant de programmer un post Google : ni numéro, ni e-mail, ni adresse de site.
+Les cartes IG/FB portent en pied « finitionsflorentin.fr · [numéro] » : INTERDIT sur Google (coordonnées non vérifiées → Google retire le post et peut bloquer les publications ; incident du 04/11/2026, l'erreur venait aussi de l'image, pas seulement du texte). Pour Google, utiliser les versions du dossier google/ (pied « FINITIONS FLORENTIN · Lyon »), ou créer une version sans coordonnées. Toujours REGARDER l'image avant de programmer un post Google : ni numéro, ni e-mail, ni adresse de site.
 
 
 ## RÈGLE ABSOLUE (consigne du gérant, 05/11/2026) : JAMAIS de numéro de téléphone
-Le numéro de téléphone (07 87 85 93 06) ne doit apparaître NULLE PART : ni dans les images, ni dans les légendes, ni dans les posts Instagram, Facebook, LinkedIn, Google. Remplacer par :
+Le numéro de téléphone (le numéro du gérant) ne doit apparaître NULLE PART : ni dans les images, ni dans les légendes, ni dans les posts Instagram, Facebook, LinkedIn, Google. Remplacer par :
 - Instagram / Facebook : « Devis gratuit : écrivez-nous en message privé. »
 - LinkedIn (page et perso) : « Devis gratuit sur finitionsflorentin.fr »
 - Google : « 💬 Devis gratuit – contactez-nous via notre fiche Google »
