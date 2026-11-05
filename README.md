@@ -88,3 +88,6 @@ Le numéro de téléphone (le numéro du gérant) ne doit apparaître NULLE PART
 - LinkedIn (page et perso) : « Devis gratuit sur finitionsflorentin.fr »
 - Google : « 💬 Devis gratuit – contactez-nous via notre fiche Google »
 Les cartes sont rendues avec le pied « finitionsflorentin.fr · Lyon » (tools/*.py corrigés). Le site finitionsflorentin.fr peut apparaître. Le dossier ig/ contient les images IG/FB/LinkedIn à jour sans numéro ; google/ celles pour Google.
+
+## VARIÉTÉ VISUELLE (consigne du gérant, 05/11/2026)
+Les cartes ne doivent pas toutes se ressembler (les 3 traits rouge/bleu/noir en haut + même mise en page = lassant). Chaque semaine : au moins 2 posts IG/FB avec une vraie photo du dossier photos/ (mise en page « photo » ou photo seule), pas deux fois de suite la même mise en page ni le même fond, et les traits du haut sur une carte sur deux seulement. Relire chaque légende et chaque ligne de carte : tout doit être clair et vrai, sans formule vague.
