@@ -121,3 +121,7 @@ Les anciens posts programmés sont passés en BROUILLON avec le texte « [ANCIEN
 - Déjà programmé depuis le nouveau départ : du 06/11 au 16/11 (voir etat.json).
 
 - PAS DE CARROUSEL sans accord explicite du gérant (05/11/2026) : une seule image par post.
+
+## PHOTOS (consigne du gérant, 07/11/2026)
+- Le gérant envoie un dossier de BELLES PHOTOS : elles sont rangées dans `photos_selection/`. Dès qu'il contient des photos, n'utiliser QUE ce dossier pour les posts photo et les images Google ; oublier les autres photos de chantier (`photos/`). Tant qu'il est vide, `photos/` reste utilisable.
+- Ne jamais oublier les posts photo : au moins 3 par semaine sur IG/FB/LinkedIn, et de préférence une photo pour chaque post Google.
