@@ -41,8 +41,8 @@ Règles : jamais de nom de client ou d'enseigne ; photos d'isolation : la marque
 | papier_peint/fresque_abstraite_a_la_lumiere_naturelle.jpg | PAPIER PEINT |  |  |
 | papier_peint/mur_tropical_et_plafond_parfaitement_raccordes.jpg | PAPIER PEINT |  |  |
 | papier_peint/papier_peint_acanthe_gris_sauge.jpg | PAPIER PEINT |  |  |
-| papier_peint/papier_peint_art_deco_lumiere_restauree.jpg | PAPIER PEINT |  |  |
-| papier_peint/papier_peint_paons_sol_en_bois.jpg | PAPIER PEINT |  |  |
+| papier_peint/papier_peint_art_deco_lumiere_restauree.jpg | PAPIER PEINT |  | 11/11/2026 |
+| papier_peint/papier_peint_paons_sol_en_bois.jpg | PAPIER PEINT |  | 11/11/2026 (Google) |
 | papier_peint/piece_doree_renovee_porte_cintree.jpg | PAPIER PEINT |  |  |
 | papier_peint/piece_epuree_aux_poutres_anciennes.jpg | PAPIER PEINT |  |  |
 | papier_peint/verriere_noire_et_papier_peint_geometrique.jpg | PAPIER PEINT |  |  |
@@ -50,7 +50,7 @@ Règles : jamais de nom de client ou d'enseigne ; photos d'isolation : la marque
 | peinture/couloir_bleu_aux_finitions_soignees_1.jpg | PEINTURE |  |  |
 | peinture/couloir_bleu_marine_aux_finitions_soignees_2.jpg | PEINTURE |  |  |
 | peinture/courbe_blanche_sur_escalier_en_chene.jpg | PEINTURE |  |  |
-| peinture/cuisine_bordeaux_lumiere_douce_5.jpg | PEINTURE |  |  |
+| peinture/cuisine_bordeaux_lumiere_douce_5.jpg | PEINTURE |  | 14/11/2026 |
 | peinture/devanture_de_boutique_restauree.jpg | PEINTURE | Façade de boutique : le nom de l'enseigne est lisible → ne jamais citer l'enseigne ; légende « devanture de boutique repeinte ». |  |
 | peinture/entree_et_salon_degages_architecture_preservee_3.jpg | PEINTURE |  |  |
 | peinture/escalier_en_chene_garde_corps_courbe_6.jpg | PEINTURE |  |  |

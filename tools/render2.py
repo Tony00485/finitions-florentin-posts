@@ -35,7 +35,7 @@ def body(c,T):
         return f'<div class="duos">{t}</div>'
 def html_photo(c):
     T=TH[c.get('theme','blanc')]
-    ph="data:image/jpeg;base64,"+base64.b64encode(open(os.path.join(os.path.dirname(HERE),'photos',c['photo']),'rb').read()).decode()
+    ph="data:image/jpeg;base64,"+base64.b64encode(open(os.path.join(os.path.dirname(HERE),c['photo'] if '/' in c['photo'] else os.path.join('photos',c['photo'])),'rb').read()).decode()
     return f'''<style>*{{margin:0;box-sizing:border-box}}body{{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:Poppins,sans-serif;background:{T["bg"]};color:{T["t"]}}}
 .ph{{position:absolute;left:0;top:0;width:1080px;height:760px;object-fit:cover;object-position:{c.get("pos","50% 50%")}}}
 .lg{{position:absolute;left:60px;top:60px;width:300px;padding:18px 22px;background:#fff}}
