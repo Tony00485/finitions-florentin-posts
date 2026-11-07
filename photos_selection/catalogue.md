@@ -46,15 +46,15 @@ Règles : jamais de nom de client ou d'enseigne ; photos d'isolation : la marque
 | papier_peint/piece_doree_renovee_porte_cintree.jpg | PAPIER PEINT |  |  |
 | papier_peint/piece_epuree_aux_poutres_anciennes.jpg | PAPIER PEINT |  |  |
 | papier_peint/verriere_noire_et_papier_peint_geometrique.jpg | PAPIER PEINT |  |  |
-| peinture/cabinet_dentaire_bleu_aux_finitions_nettes.jpg | PEINTURE | Cabinet dentaire, mur bleu : ne citer aucun nom de client. |  |
+| peinture/cabinet_dentaire_bleu_aux_finitions_nettes.jpg | PEINTURE | Cabinet dentaire, mur bleu : dire « cabinet dentaire », jamais le nom. |  |
 | peinture/couloir_bleu_aux_finitions_soignees_1.jpg | PEINTURE |  |  |
 | peinture/couloir_bleu_marine_aux_finitions_soignees_2.jpg | PEINTURE |  |  |
 | peinture/courbe_blanche_sur_escalier_en_chene.jpg | PEINTURE |  |  |
 | peinture/cuisine_bordeaux_lumiere_douce_5.jpg | PEINTURE |  | 14/11/2026 |
-| peinture/devanture_de_boutique_restauree.jpg | PEINTURE | Façade de boutique : le nom de l'enseigne est lisible → ne jamais citer l'enseigne ; légende « devanture de boutique repeinte ». |  |
+| peinture/devanture_de_boutique_restauree.jpg | PEINTURE | Devanture d'une boutique de vêtements : dire « boutique de vêtements », jamais le nom de l'enseigne. |  |
 | peinture/entree_et_salon_degages_architecture_preservee_3.jpg | PEINTURE |  |  |
 | peinture/escalier_en_chene_garde_corps_courbe_6.jpg | PEINTURE |  |  |
-| peinture/interieur_orange_de_gertrude_a_lyon.jpg | PEINTURE | Local commercial (boutique) mur orange vif : NE PAS citer le nom du client. |  |
+| peinture/interieur_orange_de_gertrude_a_lyon.jpg | PEINTURE | Intérieur d'une boutique de vêtements, mur orange vif : dire « boutique de vêtements », jamais le nom. |  |
 | peinture/mur_darches_peintes_aux_teintes_douces.jpg | PEINTURE |  |  |
 | peinture/mur_renove_aux_bandes_ondulees.jpg | PEINTURE |  |  |
 | peinture/mur_rouge_ondulant_et_niches_blanches.jpg | PEINTURE |  |  |
