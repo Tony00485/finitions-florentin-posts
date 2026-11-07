@@ -129,3 +129,6 @@ Les anciens posts programmés sont passés en BROUILLON avec le texte « [ANCIEN
 - Les métiers de la sélection donnent les thèmes Google : peinture, plâtrerie/placo, isolation, carrelage, papier peint, parquet (pose, ponçage et vitrification), sols PVC et moquette (aussi bureaux et locaux professionnels).
 - Clients professionnels (consigne 07/11/2026) : on PEUT et on DOIT dire le type de lieu (boutique de vêtements, cabinet dentaire, bureaux, locaux professionnels, commerce) pour montrer que l'entreprise travaille aussi pour les pros ; JAMAIS le nom du client ni de l'enseigne. Les photos retouchées de la sélection sont validées par le gérant.
 - Nouveaux thèmes visibles dans la sélection : peinture extérieure (façade, portail), ratissage et préparation des murs, ragréage autolissant, terrasse en dalles sur plots, faux plafonds à spots, dalles de bureaux.
+
+## PHOTOS — MISE À JOUR 07/11/2026 15h25 (prime sur tout ce qui précède)
+Le gérant demande d'OUBLIER toutes les photos envoyées jusqu'ici. Elles sont rangées dans `photos_archive_ne_plus_utiliser/` : NE JAMAIS les utiliser. Seul le prochain dossier envoyé par le gérant, rangé dans `photos_selection/`, sert aux posts. Si `photos_selection/` est vide, ne programme aucun post photo : fais des cartes et signale dans le message final qu'il manque les photos.
