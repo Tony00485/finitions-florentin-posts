@@ -125,3 +125,5 @@ Les anciens posts programmés sont passés en BROUILLON avec le texte « [ANCIEN
 ## PHOTOS (consigne du gérant, 07/11/2026)
 - Le gérant envoie un dossier de BELLES PHOTOS : elles sont rangées dans `photos_selection/`. Dès qu'il contient des photos, n'utiliser QUE ce dossier pour les posts photo et les images Google ; oublier les autres photos de chantier (`photos/`). Tant qu'il est vide, `photos/` reste utilisable.
 - Ne jamais oublier les posts photo : au moins 3 par semaine sur IG/FB/LinkedIn, et de préférence une photo pour chaque post Google.
+- 07/11/2026 : dossier reçu. 102 photos dans `photos_selection/` (carrelage, isolation, papier_peint, peinture, placo, revetement_de_sol/parquet, /poncage_et_vitrification_parquet, /pvc_moquette). Voir `photos_selection/catalogue.md` et marquer chaque photo utilisée (colonne « Déjà utilisée », avec la date). Le dossier `photos/` est ABANDONNÉ : ne plus jamais l'utiliser.
+- Les métiers de la sélection donnent les thèmes Google : peinture, plâtrerie/placo, isolation, carrelage, papier peint, parquet (pose, ponçage et vitrification), sols PVC et moquette (aussi bureaux et locaux professionnels).
