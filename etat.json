@@ -288,7 +288,7 @@
  "plan_1711_0101": {
   "cree_le": "2026-11-08",
   "programme_jusqu_au": "2027-01-01",
-  "statut": "TOUT EN BROUILLON (draft:true) à valider par le gérant",
+  "statut": "PUBLICATION AUTOMATIQUE (draft:false) depuis le 08/11/2026, consigne du gérant",
   "source": "sources/plan_1711_0101.py",
   "posts": [
    {

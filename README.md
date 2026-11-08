@@ -149,3 +149,8 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - **Les deux LinkedIn ne publient JAMAIS le même sujet le même jour** : le perso reprend un sujet de la page à une autre date (décalé) ou un texte personnel (2 fois/semaine, sans image).
 - Les brouillons existants (hors « [ANCIEN POST ») = déjà programmés : ne pas les dupliquer.
 - Metricool n'a pas d'outil de suppression : pour remplacer un post, le mettre à jour (updateScheduledPost) plutôt que d'en créer un nouveau.
+
+## PUBLICATION AUTOMATIQUE EN PERMANENCE (08/11/2026 19h35, consigne du gérant — prime sur tout ce qui précède)
+- « Tout doit partir automatiquement en permanence » : TOUS les posts (IG/FB, Reels, LinkedIn page, LinkedIn perso, Google) ET les stories sont créés avec `draft: false` et `autoPublish: true`. Plus aucun brouillon.
+- Le plan 17/11 → 01/01/2027 a été entièrement basculé en publication automatique le 08/11/2026.
+- Conséquence : le contrôle qualité avant programmation (texte, faits vérifiés, pas de téléphone, pas de site/mail sur Google, photos de photos_selection uniquement) est d'autant plus impératif, car personne ne relit avant publication.
