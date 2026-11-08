@@ -158,3 +158,4 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 ## REELS (08/11/2026 19h47, consigne du gérant)
 - Le gérant n'a PAS de photos « avant » pour l'instant : ne JAMAIS présenter un Reel comme un « avant/après ».
 - Seuls Reels possibles : les étapes réelles d'un même chantier (en cours → fini) déjà identifiées (faux plafond, isolation/doublage). Pas de nouvelle paire = pas de Reel, posts photo à la place. Ne pas relancer le gérant à ce sujet ; il enverra des photos avant quand il en aura.
+- 08/11 20h15 : le gérant accepte les « PENDANT / APRÈS » (photo en cours de chantier → pièce finie). Outil : `tools/reel.py` (spec JSON, étiquettes PENDANT/APRÈS, carte de fin render2). Paire salon haussmannien (préparation-ratissage → cheminée marbre rose) utilisée en Reel le 29/11.

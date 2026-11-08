@@ -70,7 +70,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | peinture/peinture-salon-ancien-jaune-ocre-parquet-chevrons.jpg | 2026-12-28 (Google) |
 | peinture/peinture-salon-blanc-cheminee-terre-cuite.jpg |  |
 | peinture/peinture-salon-boiseries-blanches-cheminee-marbre-parquet.jpg |  |
-| peinture/peinture-salon-haussmannien-cheminee-marbre-rose.jpg | 2026-11-29 |
+| peinture/peinture-salon-haussmannien-cheminee-marbre-rose.jpg | 2026-11-29 (Reel pendant/après) |
 | peinture/peinture-salon-haussmannien-lumineux-moulures-parquet-point-de-hongrie.jpg |  |
 | peinture/peinture-salon-moulures-cheminee-placards-blancs.jpg | 2026-12-17 |
 | peinture/peinture-salon-soubassement-terracotta-fresque-carreaux-hexagonaux.jpg | 2026-12-29 |
@@ -119,3 +119,4 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | sols/pvc-moquette/sol-pvc-dalles-effet-beton-gris.jpg |  |
 | sols/pvc-moquette/sol-pvc-lames-effet-bois-espace-bureaux.jpg |  |
 | sols/sol-ragreage-autolissant-couloir-appartement.jpg | 2026-12-14 (Google) |
+| peinture/peinture-salon-haussmannien-cheminee-marbre-rose-preparation-ratissage.jpg | 2026-11-29 (Reel pendant/après) — photo PENDANT (préparation, ratissage) du même salon, envoyée par le gérant le 08/11 |

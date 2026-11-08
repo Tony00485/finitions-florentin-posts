@@ -1,0 +1,4 @@
+{"steps":[
+ {"photo":"photos_selection/peinture/peinture-salon-haussmannien-cheminee-marbre-rose-preparation-ratissage.jpg","tag":"PENDANT","cap":"Préparation et ratissage des murs","top":210,"h":1400,"fit":"cover"},
+ {"photo":"photos_selection/peinture/peinture-salon-haussmannien-cheminee-marbre-rose.jpg","tag":"APRÈS","cap":"Peinture terminée","top":560,"h":630,"fit":"contain"}],
+ "end":{"kind":"card","theme":"pierre","kick":"PENDANT / APRÈS","title":"Un salon haussmannien.","sub":"Préparation et ratissage des murs, puis peinture.","foot":"Peinture intérieure · Lyon"}}
