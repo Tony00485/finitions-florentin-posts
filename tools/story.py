@@ -35,7 +35,7 @@ def split(c):
 .lg{{position:absolute;right:80px;top:240px;width:300px;padding:18px 22px;background:#fff}}
 .mid{{position:absolute;left:0;right:0;top:700px;height:120px;background:{T["foot"]};display:flex;align-items:center;padding:0 80px;font-size:46px;font-weight:800;color:#fff}}</style>
 <body><img class="a" src="{img64(c["avant"])}"><img class="b" src="{img64(c["apres"])}"><img class="lg" src="{R.L}">
-<div class="tag" style="top:600px">AVANT</div><div class="mid">{nb(c["title"])}</div><div class="tag" style="top:860px">APRÈS</div>
+<div class="tag" style="top:600px">{c.get("taga","PENDANT")}</div><div class="mid">{nb(c["title"])}</div><div class="tag" style="top:860px">{c.get("tagb","APRÈS")}</div>
 <div class="band"><div class="fl">{nb(c.get("foot",""))}</div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>'''
 async def main(spec,out):
     from playwright.async_api import async_playwright

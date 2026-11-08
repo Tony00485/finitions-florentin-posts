@@ -159,3 +159,11 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Le gérant n'a PAS de photos « avant » pour l'instant : ne JAMAIS présenter un Reel comme un « avant/après ».
 - Seuls Reels possibles : les étapes réelles d'un même chantier (en cours → fini) déjà identifiées (faux plafond, isolation/doublage). Pas de nouvelle paire = pas de Reel, posts photo à la place. Ne pas relancer le gérant à ce sujet ; il enverra des photos avant quand il en aura.
 - 08/11 20h15 : le gérant accepte les « PENDANT / APRÈS » (photo en cours de chantier → pièce finie). Outil : `tools/reel.py` (spec JSON, étiquettes PENDANT/APRÈS, carte de fin render2). Paire salon haussmannien (préparation-ratissage → cheminée marbre rose) utilisée en Reel le 29/11.
+
+## RÉCAP CONSIGNES DU 08/11/2026 SOIR (validé par le gérant : « enregistre tout ce qu'on a dit, c'est parfait »)
+- Publication 100 % automatique en permanence (posts, Reels, LinkedIn page et perso, Google, stories). Plus aucun brouillon.
+- Rythme : IG/FB 1/jour (12h30 semaine, 10h week-end), LinkedIn page 8h30, LinkedIn perso 12h30 (jamais le même sujet que la page le même jour), Google lundi + jeudi 9h, stories 1/jour 18h.
+- Pas de photos « avant » : jamais d'« AVANT / APRÈS ». Format validé : « PENDANT / APRÈS » (photo de chantier en cours → même pièce finie), via `tools/reel.py` (Reels) et `tools/story.py` kind split (étiquettes PENDANT/APRÈS par défaut).
+- Paires PENDANT/APRÈS disponibles : faux plafond (ossature → spots), salon haussmannien (préparation-ratissage → cheminée marbre rose), isolation (étapes). Reels programmés : 21/11 faux plafond, 28/11 isolation, 29/11 salon. Stories : 15/11 faux plafond, 17/11 salon.
+- La photo `peinture/peinture-salon-haussmannien-cheminee-marbre-rose-preparation-ratissage.jpg` peut AUSSI servir seule pour des posts sur la préparation des murs et le ratissage (avec `peinture-preparation-mur-enduit-ratissage-...` et `peinture-mur-ratisse-lisse-...`).
+- Quand le gérant envoie une photo de chantier en cours, chercher la version finie de la même pièce dans photos_selection et en faire un PENDANT/APRÈS.
