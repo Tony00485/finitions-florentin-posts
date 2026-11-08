@@ -132,3 +132,6 @@ Les anciens posts programmés sont passés en BROUILLON avec le texte « [ANCIEN
 
 ## PHOTOS — MISE À JOUR 07/11/2026 15h25 (prime sur tout ce qui précède)
 Le gérant demande d'OUBLIER toutes les photos envoyées jusqu'ici. Elles sont rangées dans `photos_archive_ne_plus_utiliser/` : NE JAMAIS les utiliser. Seul le prochain dossier envoyé par le gérant, rangé dans `photos_selection/`, sert aux posts. Si `photos_selection/` est vide, ne programme aucun post photo : fais des cartes et signale dans le message final qu'il manque les photos.
+
+## PHOTOS — VERSION DÉFINITIVE (08/11/2026, prime sur tout ce qui précède)
+Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité : c'est la SEULE source de photos pour toutes les publications. Il est dans `photos_selection/` (peinture, papier-peint, placo, isolation, carrelage-faience, sols, sols/parquet, sols/poncage-vitrification, sols/pvc-moquette) avec `catalogue.md`. Aucune autre photo, jamais. Le dossier `photos/` et toute archive antérieure sont abandonnés.
