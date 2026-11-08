@@ -154,3 +154,7 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - « Tout doit partir automatiquement en permanence » : TOUS les posts (IG/FB, Reels, LinkedIn page, LinkedIn perso, Google) ET les stories sont créés avec `draft: false` et `autoPublish: true`. Plus aucun brouillon.
 - Le plan 17/11 → 01/01/2027 a été entièrement basculé en publication automatique le 08/11/2026.
 - Conséquence : le contrôle qualité avant programmation (texte, faits vérifiés, pas de téléphone, pas de site/mail sur Google, photos de photos_selection uniquement) est d'autant plus impératif, car personne ne relit avant publication.
+
+## REELS (08/11/2026 19h47, consigne du gérant)
+- Le gérant n'a PAS de photos « avant » pour l'instant : ne JAMAIS présenter un Reel comme un « avant/après ».
+- Seuls Reels possibles : les étapes réelles d'un même chantier (en cours → fini) déjà identifiées (faux plafond, isolation/doublage). Pas de nouvelle paire = pas de Reel, posts photo à la place. Ne pas relancer le gérant à ce sujet ; il enverra des photos avant quand il en aura.
