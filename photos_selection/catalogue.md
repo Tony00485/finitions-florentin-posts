@@ -120,3 +120,6 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | sols/pvc-moquette/sol-pvc-lames-effet-bois-espace-bureaux.jpg |  |
 | sols/sol-ragreage-autolissant-couloir-appartement.jpg | 2026-12-14 (Google) |
 | peinture/peinture-salon-haussmannien-cheminee-marbre-rose-preparation-ratissage.jpg | 2026-11-29 (Reel pendant/après) — photo PENDANT (préparation, ratissage) du même salon, envoyée par le gérant le 08/11 |
+| sinistre/sinistre-degat-des-eaux-plafond-avant-travaux.jpg | 2026-12-04 (Reel) — vraie photo AVANT (dégât des eaux), même pièce que les 2 suivantes |
+| sinistre/sinistre-degat-des-eaux-plafond-preparation-enduit.jpg | 2026-12-04 (Reel) — PENDANT (enduit, ratissage) |
+| sinistre/sinistre-degat-des-eaux-plafond-refait-apres.jpg | 2026-12-04 (Reel) — APRÈS (plafond refait) |
