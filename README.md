@@ -140,3 +140,12 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Outil : `tools/story.py` (1080x1920, style render2 ; kinds card, photo, split avant/après). Images dans `ig/stories/`.
 - 1 story par jour vers 18 h (IG + FB) qui complète le post du jour. Créées en BROUILLON : le gérant valide chacune. Metricool ne gère ni texte ni stickers sur les stories : le sticker (sondage, question, quiz, curseur) s'ajoute à la main dans Instagram au moment de publier ; une zone vide est prévue dans l'image.
 - 9-16/11 : voir sources/stories_2026-11-09_16.json.
+
+## PLAN 17/11/2026 → 01/01/2027 et nouvelles règles (08/11/2026, consigne du gérant — prime sur tout ce qui précède)
+- **Tous les POSTS (IG/FB, LinkedIn page, LinkedIn perso, Google) sont créés en BROUILLON (`draft: true`)** : le gérant valide avant publication. Ne jamais créer un post en publication directe.
+- **EXCEPTION : les STORIES sont en publication AUTOMATIQUE (`draft: false`)**, 1 par jour à 18h sur IG + FB, programmées au fur et à mesure chaque semaine par la tâche (sans texte, image 1080x1920 via tools/story.py).
+- Rythme : IG/FB 1 post/jour (12h30 en semaine, 10h le week-end et jours fériés) ; LinkedIn page 8h30 ; LinkedIn perso 12h30 ; Google **2 par semaine (lundi et jeudi 9h)** + dates spéciales (24/12, 01/01).
+- **Reels** : 1 à 2 par semaine, UNIQUEMENT de vrais avant/après ou étapes d'un même chantier (photos_selection). Montage ffmpeg (fondu xfade), mp4 dans `reels/`, type REEL sur IG et FB. Paires déjà utilisées : faux plafond (ossature → spots), isolation salle de bains (isolant → fenêtre placo → bandes). Faute de vraie paire, ne pas inventer : poster une photo et demander de nouvelles paires au gérant.
+- **Les deux LinkedIn ne publient JAMAIS le même sujet le même jour** : le perso reprend un sujet de la page à une autre date (décalé) ou un texte personnel (2 fois/semaine, sans image).
+- Les brouillons existants (hors « [ANCIEN POST ») = déjà programmés : ne pas les dupliquer.
+- Metricool n'a pas d'outil de suppression : pour remplacer un post, le mettre à jour (updateScheduledPost) plutôt que d'en créer un nouveau.

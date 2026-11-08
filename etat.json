@@ -1,6 +1,6 @@
 {
  "dernier_fond": "ciel",
- "programme_jusqu_au": "2026-11-16",
+ "programme_jusqu_au": "2027-01-01",
  "posts": [
   {
    "date": "2026-11-04",
@@ -284,5 +284,352 @@
     "sujet": "quelle plaque de plâtre"
    }
   ]
+ },
+ "plan_1711_0101": {
+  "cree_le": "2026-11-08",
+  "programme_jusqu_au": "2027-01-01",
+  "statut": "TOUT EN BROUILLON (draft:true) à valider par le gérant",
+  "source": "sources/plan_1711_0101.py",
+  "posts": [
+   {
+    "date": "2026-11-17",
+    "sujet": "Douche en mosaïque hexagonale avec banc intégré, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-18",
+    "sujet": "Carte Finitions Florentin : demandez l'attestation décennale avant de signer.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-19",
+    "sujet": "Façade peinte en orange donnant sur une terrasse en bois, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-20",
+    "sujet": "Carte Finitions Florentin : plusieurs métiers, une seule entreprise.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-21",
+    "sujet": "Vidéo avant/après d'un faux plafond à spots.",
+    "type": "reel",
+    "reel": "faux_plafond"
+   },
+   {
+    "date": "2026-11-22",
+    "sujet": "Mur recouvert d'un papier peint feuillage vert foncé, posé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-23",
+    "sujet": "Carte Finitions Florentin : trois isolants, trois atouts.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-24",
+    "sujet": "Escalier habillé de chêne naturel, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-25",
+    "sujet": "Carte Finitions Florentin : l'isolant sert aussi en été, le déphasage.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-26",
+    "sujet": "Cabinet dentaire avec un mur peint en bleu, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-27",
+    "sujet": "Carte Finitions Florentin : nos engagements sur chaque chantier.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-28",
+    "sujet": "Vidéo des étapes d'une isolation intérieure jusqu'au doublage prêt à peindre.",
+    "type": "reel",
+    "reel": "isolation_doublage"
+   },
+   {
+    "date": "2026-11-29",
+    "sujet": "Salon haussmannien lumineux avec cheminée et parquet, repeint par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-11-30",
+    "sujet": "Carte Finitions Florentin : des peintures classées A+, teneur en COV.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-01",
+    "sujet": "Couloir peint en bleu nuit avec porte dans la même teinte, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-02",
+    "sujet": "Carte Finitions Florentin : le dossier CEE, on s'en occupe.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-03",
+    "sujet": "Douche carrelée aux tons pierre avec receveur assorti, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-04",
+    "sujet": "Carte Finitions Florentin : après un dégât des eaux, les bons réflexes.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-05",
+    "sujet": "Meuble TV avec niches réalisé en plaques de plâtre, en cours de chantier, par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-06",
+    "sujet": "Fresque murale feuillage aux tons terracotta sous des poutres anciennes, posée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-07",
+    "sujet": "Carte Finitions Florentin : pourquoi une laque pour les boiseries ?",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-08",
+    "sujet": "Couloir avec sol posé en bâtons rompus et murs vert pâle, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-09",
+    "sujet": "Carte Finitions Florentin : repeindre suffit sur une tache d'humidité ? Non.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-10",
+    "sujet": "Cuisine avec crédence en faïence verte et sol en carreaux de ciment, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-11",
+    "sujet": "Carte Finitions Florentin : bien choisir sa couleur de peinture.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-12",
+    "sujet": "Cloison courbe blanche le long d'un escalier en chêne, porte bleu canard, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-13",
+    "sujet": "Devanture d'une boutique de vêtements repeinte par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-14",
+    "sujet": "Carte Finitions Florentin : à quoi servent les bandes à joints ?",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-15",
+    "sujet": "Terrasse en dalles effet bois posées sur plots devant une maison, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-16",
+    "sujet": "Carte Finitions Florentin : ce que nous regardons pour chiffrer un devis.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-17",
+    "sujet": "Salon avec moulures, placards blancs et cheminée, repeint par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-18",
+    "sujet": "Carte Finitions Florentin : peinture au plomb, les repères.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-19",
+    "sujet": "Boutique de vêtements avec un mur peint en orange vif, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-20",
+    "sujet": "Mur peint en vagues terracotta, ocre et beige, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-21",
+    "sujet": "Carte Finitions Florentin : avant le revêtement, un sol plan.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-22",
+    "sujet": "Mur rouge vif avec niches blanches aux formes ondulées, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-23",
+    "sujet": "Carte Finitions Florentin : votre chantier étape par étape.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-24",
+    "sujet": "Carte Finitions Florentin : belles fêtes de fin d'année.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-25",
+    "sujet": "Rotonde habillée d'un revêtement doré texturé avec porte cintrée, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-26",
+    "sujet": "Espace pause de bureaux aux murs orange terracotta et crédence verte, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-27",
+    "sujet": "Douche en faïence bleue posée à la verticale avec niche, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-28",
+    "sujet": "Parquet ancien en bâtons rompus poncé et vitrifié, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-29",
+    "sujet": "Salon avec soubassement terracotta et fresque murale, réalisé par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-30",
+    "sujet": "Bibliothèque à niches en plaques de plâtre en cours de chantier, réalisée par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2026-12-31",
+    "sujet": "Entrée avec arche, boiseries et parquet en chevrons, repeinte par Finitions Florentin.",
+    "type": "image",
+    "reel": null
+   },
+   {
+    "date": "2027-01-01",
+    "sujet": "Carte Finitions Florentin : bonne année 2027.",
+    "type": "image",
+    "reel": null
+   }
+  ],
+  "google": [
+   {
+    "date": "2026-11-19",
+    "sujet": "Portail peint en gris anthracite par Finitions Florentin."
+   },
+   {
+    "date": "2026-11-23",
+    "sujet": "Isolation des rampants en laine de verre sur ossature métallique."
+   },
+   {
+    "date": "2026-11-26",
+    "sujet": "Cloison avec allège et verrière noire dans des bureaux, réalisée par Finitions Florentin."
+   },
+   {
+    "date": "2026-11-30",
+    "sujet": "Parquet poncé et vitrifié, teinte miel, réalisé par Finitions Florentin."
+   },
+   {
+    "date": "2026-12-03",
+    "sujet": "Douche carrelée grise avec receveur extra-plat, réalisée par Finitions Florentin."
+   },
+   {
+    "date": "2026-12-07",
+    "sujet": "Couloir en chantier avec arche et cloisons en plaques de plâtre."
+   },
+   {
+    "date": "2026-12-10",
+    "sujet": "Pièce finie avec faux plafond et spots encastrés."
+   },
+   {
+    "date": "2026-12-14",
+    "sujet": "Couloir d'appartement avec ragréage autolissant."
+   },
+   {
+    "date": "2026-12-17",
+    "sujet": "Bureaux lumineux avec moquette en dalles grises."
+   },
+   {
+    "date": "2026-12-21",
+    "sujet": "Mur isolé par l'intérieur autour d'une fenêtre, en cours de chantier."
+   },
+   {
+    "date": "2026-12-24",
+    "sujet": "Carte Finitions Florentin : belles fêtes de fin d'année."
+   },
+   {
+    "date": "2026-12-28",
+    "sujet": "Salon ancien repeint en jaune ocre avec parquet en chevrons."
+   },
+   {
+    "date": "2026-12-31",
+    "sujet": "Pose de parquet en chêne en cours."
+   },
+   {
+    "date": "2027-01-01",
+    "sujet": "Carte Finitions Florentin : bonne année 2027."
+   }
+  ],
+  "reels_utilises": [
+   "faux_plafond (21/11)",
+   "isolation_doublage (28/11)"
+  ],
+  "stories_programmees_jusqu_au": "2026-11-16"
  }
 }
