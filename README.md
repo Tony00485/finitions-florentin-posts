@@ -135,3 +135,8 @@ Le gérant demande d'OUBLIER toutes les photos envoyées jusqu'ici. Elles sont r
 
 ## PHOTOS — VERSION DÉFINITIVE (08/11/2026, prime sur tout ce qui précède)
 Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité : c'est la SEULE source de photos pour toutes les publications. Il est dans `photos_selection/` (peinture, papier-peint, placo, isolation, carrelage-faience, sols, sols/parquet, sols/poncage-vitrification, sols/pvc-moquette) avec `catalogue.md`. Aucune autre photo, jamais. Le dossier `photos/` et toute archive antérieure sont abandonnés.
+
+## STORIES (08/11/2026)
+- Outil : `tools/story.py` (1080x1920, style render2 ; kinds card, photo, split avant/après). Images dans `ig/stories/`.
+- 1 story par jour vers 18 h (IG + FB) qui complète le post du jour. Créées en BROUILLON : le gérant valide chacune. Metricool ne gère ni texte ni stickers sur les stories : le sticker (sondage, question, quiz, curseur) s'ajoute à la main dans Instagram au moment de publier ; une zone vide est prévue dans l'image.
+- 9-16/11 : voir sources/stories_2026-11-09_16.json.
