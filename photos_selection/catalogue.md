@@ -46,7 +46,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | papier-peint/papier-peint-dore-texture-rotonde-porte-cintree.jpg | 2026-12-25 |
 | papier-peint/papier-peint-fresque-abstraite-couloir-colore.jpg |  |
 | papier-peint/papier-peint-fresque-feuilles-terracotta-poutres-anciennes.jpg | 2026-12-06 |
-| papier-peint/papier-peint-geometrique-noir-beige-verriere.jpg |  |
+| papier-peint/papier-peint-geometrique-noir-beige-verriere.jpg | 2026-11-22 (story) |
 | papier-peint/papier-peint-mur-triangles-3d-salon-poutres-blanches.jpg |  |
 | papier-peint/papier-peint-panoramique-tropical-veranda-sol-gris.jpg |  |
 | papier-peint/papier-peint-paons-bleu-nuit-sous-escalier.jpg | 11/11/2026 (Google) |
@@ -59,7 +59,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | peinture/peinture-escalier-chene-courbe-blanche-porte-bleu-canard.jpg | 2026-12-12 |
 | peinture/peinture-espace-pause-orange-terracotta-credence-verte.jpg | 2026-12-26 |
 | peinture/peinture-facade-boutique-renovee-vitrine.jpg | 2026-12-13 |
-| peinture/peinture-facade-orange-terrasse-bois-lyon.jpg | 2026-11-19 |
+| peinture/peinture-facade-orange-terrasse-bois-lyon.jpg | 2026-11-19; 2026-11-19 (story) |
 | peinture/peinture-magasin-mur-orange-vif-eclairage-lineaire.jpg | 2026-12-19 |
 | peinture/peinture-mur-arches-peintes-tons-doux.jpg |  |
 | peinture/peinture-mur-ratisse-lisse-salon-plafond-blanc.jpg |  |
@@ -87,7 +87,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | placo/placo-enduit-mur-sous-plafond-poutres-bois.jpg |  |
 | placo/placo-faux-plafond-courbe-cloison-angle.jpg |  |
 | placo/placo-faux-plafond-courbe-cloison-enduite.jpg |  |
-| placo/placo-faux-plafond-courbe-cloisons-grande-piece.jpg |  |
+| placo/placo-faux-plafond-courbe-cloisons-grande-piece.jpg | 2026-11-21 (story) |
 | placo/placo-gaines-cloisons-porte-jaune-beton-brut.jpg |  |
 | placo/placo-habillage-mural-niches-reseaux.jpg |  |
 | placo/placo-meuble-tv-niches-sur-mesure.jpg | 2026-12-05 |
@@ -103,7 +103,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | placo/platrerie-faux-plafond-ossature-metallique-avant-plaques-de-platre.jpg | 2026-11-21 (Reel) |
 | placo/platrerie-faux-plafond-spots-encastres-piece-finie.jpg | 2026-11-21 (Reel) |
 | sols/parquet/parquet-chene-clair-piece-vide.jpg |  |
-| sols/parquet/parquet-chene-miel-piece-blanche.jpg |  |
+| sols/parquet/parquet-chene-miel-piece-blanche.jpg | 2026-11-24 (story) |
 | sols/parquet/parquet-chene-naturel-murs-turquoise.jpg |  |
 | sols/parquet/parquet-chene-pose-colle-en-cours-lames-visibles.jpg | 2026-12-31 (Google) |
 | sols/parquet/parquet-couloir-chene-clair-lumiere-naturelle.jpg |  |
