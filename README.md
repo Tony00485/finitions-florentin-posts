@@ -184,3 +184,8 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Outil : `python3 tools/google43.py $PWD/sources/<spec>.json $PWD/google/<dossier>` (chemins absolus). Même spec que render2 (kind photo ou carte checks/stat), champ `out` = nom du fichier.
 - Mise en page photo : photo à gauche (640 px), texte à droite, bandeau bas « Lyon et alentours » + « Devis gratuit ». Pas de téléphone, ni de site, ni d'email.
 - Posts Google 13/11 → 1/1 : images refaites dans google/plan43/.
+
+## ORDRE IG/FB REMÉLANGÉ (12/11/2026)
+- Les posts IG/FB du 26/11 au 31/12 ont été réordonnés pour une alternance irrégulière cartes / photos (jamais plus de 3 jours du même type). 13→25/11 inchangés (stories déjà calées dessus), 24/12 et 1/1 fixes.
+- Le vrai ordre est dans `sources/ordre_igfb_2611_3112.json` (date → type C/P → sujet). Le fichier plan_1711_0101.py ne reflète PLUS les dates IG/FB : pour les stories du jour, se baser sur ce fichier ou sur getScheduledPosts, jamais sur plan_1711_0101.D.
+- LinkedIn page et Google gardent leurs dates d'origine.
