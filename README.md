@@ -178,3 +178,9 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Hashtags de remplacement : #RenovationLyon, #EntrepriseLyon, #Rénovation, #Bâtiment, #batiment.
 - Le 12/11, les 43 posts programmés qui contenaient ce mot ont été corrigés, ainsi que la story du 20/11.
 - Les mentions « artisan » plus haut dans ce README sont obsolètes.
+
+## GOOGLE BUSINESS : FORMAT DES IMAGES (12/11/2026)
+- Les images des posts Google sont TOUJOURS en **1200x900 (format 4:3)**, le format recommandé par Google. Le 1080x1350 (vertical) est recadré par Google : titre et pied de carte coupés.
+- Outil : `python3 tools/google43.py $PWD/sources/<spec>.json $PWD/google/<dossier>` (chemins absolus). Même spec que render2 (kind photo ou carte checks/stat), champ `out` = nom du fichier.
+- Mise en page photo : photo à gauche (640 px), texte à droite, bandeau bas « Lyon et alentours » + « Devis gratuit ». Pas de téléphone, ni de site, ni d'email.
+- Posts Google 13/11 → 1/1 : images refaites dans google/plan43/.
