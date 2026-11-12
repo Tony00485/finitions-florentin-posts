@@ -172,3 +172,9 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - OBJECTIF (gérant, 08/11 21h) : faire savoir que Finitions Florentin intervient aussi dans le cadre de SINISTRES, dont les dégâts des eaux (devis détaillé pour l'assureur + travaux de remise en état : peinture, plâtrerie, sols). Thème à revenir régulièrement (environ 1 post toutes les 2-3 semaines sur IG/FB + LinkedIn, et un post Google « dégât des eaux / sinistre Lyon » de temps en temps), avec les photos de photos_selection/sinistre/. Rappel factuel utilisable : déclaration du sinistre à l'assureur sous 5 jours ouvrés.
 - PRÉCISION gérant 08/11 21h03 (prime sur la ligne « OBJECTIF » ci-dessus) : ne PAS parler des dégâts des eaux / sinistres à un rythme fixe ni trop souvent ; de temps en temps seulement, sans régularité. Ces posts peuvent aussi être de simples cartes texte (render2), sans photo.
 - RYTHME VISUEL (gérant) : alterner cartes texte et publications photo (et Reels) de façon IRRÉGULIÈRE, pas une stricte alternance 1/1 : ex. 3 jours de cartes puis 2 jours de photos, puis 1 photo, 2 cartes… Le but : du changement et du rythme. Éviter aussi de dépasser 3 jours d'affilée du même type.
+
+## VOCABULAIRE (gérant, 12/11/2026) — RÈGLE ABSOLUE
+- Ne JAMAIS employer le mot « artisan » (ni « artisanal », ni #Artisan, #ArtisanLyon, #artisan) dans les textes, hashtags ou visuels. Finitions Florentin est une ENTREPRISE : dire « entreprise », « notre équipe », « nous ».
+- Hashtags de remplacement : #RenovationLyon, #EntrepriseLyon, #Rénovation, #Bâtiment, #batiment.
+- Le 12/11, les 43 posts programmés qui contenaient ce mot ont été corrigés, ainsi que la story du 20/11.
+- Les mentions « artisan » plus haut dans ce README sont obsolètes.
