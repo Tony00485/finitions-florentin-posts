@@ -11,14 +11,14 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | carrelage-faience/carrelage-douche-faience-bleue-verticale-niche.jpg | 2026-12-27 |
 | carrelage-faience/carrelage-douche-grise-niche-encastree.jpg |  |
 | carrelage-faience/carrelage-douche-italienne-gris-receveur-extra-plat.jpg | 2026-12-03 (Google) |
-| carrelage-faience/carrelage-douche-mosaique-galets-naturels.jpg |  |
+| carrelage-faience/carrelage-douche-mosaique-galets-naturels.jpg | 2026-12-02 (story) |
 | carrelage-faience/carrelage-douche-mosaique-hexagonale-banc.jpg | 2026-11-17 |
 | carrelage-faience/carrelage-douche-pierre-travertin-receveur.jpg | 2026-12-03 |
 | carrelage-faience/carrelage-escalier-exterieur-marches.jpg |  |
 | carrelage-faience/carrelage-grand-format-effet-metal-oxyde.jpg |  |
 | carrelage-faience/carrelage-mur-gris-grand-format-salle-de-bains.jpg |  |
 | carrelage-faience/carrelage-salle-de-bains-mosaique-blanche-baignoire.jpg |  |
-| carrelage-faience/carrelage-sol-carreaux-de-ciment-motifs-etoiles.jpg |  |
+| carrelage-faience/carrelage-sol-carreaux-de-ciment-motifs-etoiles.jpg | 2026-11-27 (story) |
 | carrelage-faience/carrelage-sol-dalles-pierre-naturelle-salle-de-bains.jpg |  |
 | carrelage-faience/carrelage-sol-geometrique-noir-et-blanc.jpg |  |
 | carrelage-faience/carrelage-terrasse-dalles-sur-plots-effet-bois-maison.jpg | 2026-12-15 |
@@ -44,7 +44,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | papier-peint/papier-peint-acanthe-vert-fonce-mur-bois.jpg | 2026-11-22 |
 | papier-peint/papier-peint-art-deco-eventails-bleu-canard.jpg | 11/11/2026 |
 | papier-peint/papier-peint-dore-texture-rotonde-porte-cintree.jpg | 2026-12-25 |
-| papier-peint/papier-peint-fresque-abstraite-couloir-colore.jpg |  |
+| papier-peint/papier-peint-fresque-abstraite-couloir-colore.jpg | 2026-11-29 (story) |
 | papier-peint/papier-peint-fresque-feuilles-terracotta-poutres-anciennes.jpg | 2026-12-06 |
 | papier-peint/papier-peint-geometrique-noir-beige-verriere.jpg | 2026-11-22 (story) |
 | papier-peint/papier-peint-mur-triangles-3d-salon-poutres-blanches.jpg |  |

@@ -630,6 +630,18 @@
    "faux_plafond (21/11)",
    "isolation_doublage (28/11)"
   ],
-  "stories_programmees_jusqu_au": "2026-11-25"
+  "stories_programmees_jusqu_au": "2026-12-02",
+  "stories_26_11_02_12": {
+   "source": "sources/stories_2026-11-26_12-02.json",
+   "sujets": [
+    "26/11 pros (carte)",
+    "27/11 carreaux à motifs (photo)",
+    "28/11 étapes isolation (carte)",
+    "29/11 fresque papier peint (photo)",
+    "30/11 murs/plafonds/boiseries (carte)",
+    "01/12 couleur couloir (carte)",
+    "02/12 douche mosaïque (photo)"
+   ]
+  }
  }
 }
