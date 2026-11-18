@@ -1,0 +1,71 @@
+[
+{
+"out": "2026-11-26_story_pros",
+"kind": "card",
+"theme": "pierre",
+"kick": "POUR LES PROFESSIONNELS",
+"title": "Cabinets, boutiques, bureaux.",
+"sub": "Nous intervenons aussi dans les locaux professionnels.",
+"foot": "Peinture et plâtrerie"
+},
+{
+"out": "2026-11-27_story_carreaux",
+"kind": "photo",
+"theme": "marine",
+"photo": "photos_selection/carrelage-faience/carrelage-sol-carreaux-de-ciment-motifs-etoiles.jpg",
+"pos": "50% 50%",
+"paneltop": 1230,
+"kick": "CARRELAGE",
+"title": "Un sol à motifs.",
+"foot": "Carrelage et sols"
+},
+{
+"out": "2026-11-28_story_isolation",
+"kind": "card",
+"theme": "ciel",
+"kick": "ISOLATION INTÉRIEURE",
+"title": "Isolant, plaques, bandes à joints.",
+"sub": "Les étapes d’un mur prêt à peindre.",
+"foot": "Isolation intérieure · RGE"
+},
+{
+"out": "2026-11-29_story_fresque",
+"kind": "photo",
+"theme": "blanc",
+"photo": "photos_selection/papier-peint/papier-peint-fresque-abstraite-couloir-colore.jpg",
+"pos": "50% 50%",
+"paneltop": 1230,
+"kick": "PAPIER PEINT",
+"title": "Une fresque sur tout un mur.",
+"foot": "Papier peint"
+},
+{
+"out": "2026-11-30_story_salon",
+"kind": "card",
+"theme": "pierre",
+"kick": "PEINTURE",
+"title": "Murs, plafonds, boiseries.",
+"sub": "Chaque surface a sa finition.",
+"foot": "Peinture et rénovation"
+},
+{
+"out": "2026-12-01_story_couleur",
+"kind": "card",
+"theme": "marine",
+"kick": "UNE QUESTION",
+"title": "Quelle couleur pour votre couloir ?",
+"sub": "On en parle lors du devis.",
+"foot": "Devis gratuit et détaillé"
+},
+{
+"out": "2026-12-02_story_mosaique",
+"kind": "photo",
+"theme": "ciel",
+"photo": "photos_selection/carrelage-faience/carrelage-douche-mosaique-galets-naturels.jpg",
+"pos": "50% 55%",
+"paneltop": 1230,
+"kick": "CARRELAGE",
+"title": "Une douche en mosaïque.",
+"foot": "Carrelage et faïence"
+}
+]
