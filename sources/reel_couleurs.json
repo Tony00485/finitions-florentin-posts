@@ -3,7 +3,8 @@
   {
    "photo": "photos_selection/peinture/peinture-couloir-bleu-marine-sol-carrelage.jpg",
    "tag": "BLEU MARINE",
-   "cap": "Un couloir et ses portes"
+   "cap": "Un couloir et ses portes",
+   "hook": "Vous oseriez laquelle ?"
   },
   {
    "photo": "photos_selection/peinture/peinture-accueil-vert-olive-comptoir-bois-plafond-lamelles.jpg",
@@ -28,5 +29,7 @@
   "title": "Osez la couleur.",
   "sub": "Nous vous conseillons la teinte et la finition lors du devis.",
   "foot": "Devis gratuit · message privé"
- }
+ },
+ "dur": 2.4,
+ "fade": 0.5
 }

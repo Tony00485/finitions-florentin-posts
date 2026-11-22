@@ -3,7 +3,8 @@
   {
    "photo": "photos_selection/placo/placo-salle-de-bains-plaques-hydrofuges-niches.jpg",
    "tag": "PLÂTRERIE",
-   "cap": "Plaques hydrofuges et niches"
+   "cap": "Plaques hydrofuges et niches",
+   "hook": "4 étapes pour une salle de bains qui dure"
   },
   {
    "photo": "photos_selection/carrelage-faience/etancheite-receveur-douche-a-carreler.jpg",
@@ -28,5 +29,7 @@
   "title": "Les étapes d'une salle de bains.",
   "sub": "Plâtrerie, étanchéité, carrelage : une seule entreprise.",
   "foot": "Devis gratuit · message privé"
- }
+ },
+ "dur": 2.4,
+ "fade": 0.5
 }

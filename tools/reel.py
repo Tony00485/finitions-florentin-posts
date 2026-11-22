@@ -14,7 +14,8 @@ def step(c):
 .tag{{position:absolute;left:80px;top:1640px;background:#E31B0F;color:#fff;font-size:44px;font-weight:800;letter-spacing:6px;padding:16px 30px}}
 .cap{{position:absolute;left:80px;top:1755px;font-size:38px;font-weight:600;color:#fff}}</style>
 <body><img class="bg" src="{im}"><img class="ph" src="{im}"><img class="lg" src="{R.L}">
-<div class="tag">{c["tag"]}</div><div class="cap">{S.nb(c.get("cap",""))}</div>'''
+<div class="tag">{c["tag"]}</div><div class="cap">{S.nb(c.get("cap",""))}</div>
+{f'<div style="position:absolute;left:80px;right:80px;top:330px;background:#14264F;color:#fff;font-size:62px;line-height:1.12;font-weight:800;letter-spacing:-1px;padding:30px 36px;box-shadow:0 10px 40px rgba(0,0,0,.35)">{S.nb(c["hook"])}</div>' if c.get("hook") else ""}'''
 async def frames(spec,d):
     from playwright.async_api import async_playwright
     out=[]
@@ -27,7 +28,8 @@ async def frames(spec,d):
             f=os.path.join(d,f'f{i}.png'); await pg.screenshot(path=f); out.append(f)
         await b.close()
     return out
-def build(spec,mp4,dur=3.0,fade=0.8):
+def build(spec,mp4,dur=None,fade=None):
+    dur=dur or spec.get("dur",3.0); fade=fade or spec.get("fade",0.8)
     d=tempfile.mkdtemp(); fs=asyncio.run(frames(spec,d))
     cmd=['ffmpeg','-v','error','-y']
     for f in fs: cmd+=['-loop','1','-t',str(dur),'-i',f]

@@ -3,7 +3,8 @@
   {
    "photo": "photos_selection/isolation/isolation-murs-ossature-metallique-laine-de-verre-chantier.jpg",
    "tag": "MURS",
-   "cap": "Laine de verre sur ossature métallique"
+   "cap": "Laine de verre sur ossature métallique",
+   "hook": "Ce qu'il y a derrière un mur bien isolé"
   },
   {
    "photo": "photos_selection/isolation/isolation-plafond-membrane-vario-ossature.jpg",
@@ -23,5 +24,7 @@
   "title": "Isoler par l'intérieur.",
   "sub": "Isolant, pare-vapeur, doublage. Dossier CEE pris en charge, selon éligibilité.",
   "foot": "Devis gratuit · message privé"
- }
+ },
+ "dur": 2.4,
+ "fade": 0.5
 }

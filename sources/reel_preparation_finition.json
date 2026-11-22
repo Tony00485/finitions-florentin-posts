@@ -3,7 +3,8 @@
   {
    "photo": "photos_selection/peinture/peinture-preparation-mur-enduit-ratissage-poutres-cuisine-ouverte.jpg",
    "tag": "PRÉPARATION",
-   "cap": "Enduit et ratissage"
+   "cap": "Enduit et ratissage",
+   "hook": "Le secret d'une belle peinture"
   },
   {
    "photo": "photos_selection/peinture/peinture-mur-ratisse-lisse-salon-plafond-blanc.jpg",
@@ -28,5 +29,7 @@
   "title": "La préparation fait la finition.",
   "sub": "Rebouchage, enduit, ratissage, ponçage : puis la peinture.",
   "foot": "Devis gratuit · message privé"
- }
+ },
+ "dur": 2.4,
+ "fade": 0.5
 }

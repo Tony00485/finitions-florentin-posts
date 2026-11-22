@@ -3,7 +3,8 @@
   {
    "photo": "photos_selection/placo/platrerie-faux-plafond-ossature-metallique-avant-plaques-de-platre.jpg",
    "tag": "OSSATURE",
-   "cap": "Rails et fourrures métalliques"
+   "cap": "Rails et fourrures métalliques",
+   "hook": "Des courbes en plaques de plâtre ? Oui."
   },
   {
    "photo": "photos_selection/placo/placo-cloison-arrondie-plafond-bandes.jpg",
@@ -28,5 +29,7 @@
   "title": "Courbes, arches et faux plafonds.",
   "sub": "Des formes sur mesure, prêtes à peindre.",
   "foot": "Devis gratuit · message privé"
- }
+ },
+ "dur": 2.4,
+ "fade": 0.5
 }
