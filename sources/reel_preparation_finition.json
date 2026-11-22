@@ -1,0 +1,32 @@
+{
+ "steps": [
+  {
+   "photo": "photos_selection/peinture/peinture-preparation-mur-enduit-ratissage-poutres-cuisine-ouverte.jpg",
+   "tag": "PRÉPARATION",
+   "cap": "Enduit et ratissage"
+  },
+  {
+   "photo": "photos_selection/peinture/peinture-mur-ratisse-lisse-salon-plafond-blanc.jpg",
+   "tag": "RATISSAGE",
+   "cap": "Un mur lisse, prêt à peindre"
+  },
+  {
+   "photo": "photos_selection/peinture/peinture-salon-haussmannien-lumineux-moulures-parquet-point-de-hongrie.jpg",
+   "tag": "FINITION",
+   "cap": "Moulures et murs repeints"
+  },
+  {
+   "photo": "photos_selection/peinture/peinture-salon-boiseries-blanches-cheminee-marbre-parquet.jpg",
+   "tag": "FINITION",
+   "cap": "Boiseries blanches, cheminée"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "marine",
+  "kick": "PEINTURE · LYON",
+  "title": "La préparation fait la finition.",
+  "sub": "Rebouchage, enduit, ratissage, ponçage : puis la peinture.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

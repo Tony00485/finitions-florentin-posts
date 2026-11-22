@@ -1,0 +1,32 @@
+{
+ "steps": [
+  {
+   "photo": "photos_selection/peinture/peinture-couloir-bleu-marine-sol-carrelage.jpg",
+   "tag": "BLEU MARINE",
+   "cap": "Un couloir et ses portes"
+  },
+  {
+   "photo": "photos_selection/peinture/peinture-accueil-vert-olive-comptoir-bois-plafond-lamelles.jpg",
+   "tag": "VERT OLIVE",
+   "cap": "Un espace d'accueil"
+  },
+  {
+   "photo": "photos_selection/peinture/peinture-mur-arches-peintes-tons-doux.jpg",
+   "tag": "TONS DOUX",
+   "cap": "Des arches peintes au mur"
+  },
+  {
+   "photo": "photos_selection/sols/parquet/parquet-chene-naturel-murs-turquoise.jpg",
+   "tag": "TURQUOISE",
+   "cap": "Un mur turquoise, parquet chêne"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "degrade",
+  "kick": "PEINTURE · LYON",
+  "title": "Osez la couleur.",
+  "sub": "Nous vous conseillons la teinte et la finition lors du devis.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

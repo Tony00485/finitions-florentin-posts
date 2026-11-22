@@ -1,0 +1,32 @@
+{
+ "steps": [
+  {
+   "photo": "photos_selection/placo/placo-salle-de-bains-plaques-hydrofuges-niches.jpg",
+   "tag": "PLÂTRERIE",
+   "cap": "Plaques hydrofuges et niches"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/etancheite-receveur-douche-a-carreler.jpg",
+   "tag": "ÉTANCHÉITÉ",
+   "cap": "Receveur à carreler, zone de douche"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-douche-grise-niche-encastree.jpg",
+   "tag": "CARRELAGE",
+   "cap": "Faïence grise et niche encastrée"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-douche-faience-blanche-sol-terrazzo.jpg",
+   "tag": "RÉALISATION",
+   "cap": "Faïence blanche, sol terrazzo"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "marine",
+  "kick": "SALLE DE BAINS · LYON",
+  "title": "Les étapes d'une salle de bains.",
+  "sub": "Plâtrerie, étanchéité, carrelage : une seule entreprise.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

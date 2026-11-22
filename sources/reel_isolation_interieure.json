@@ -1,0 +1,27 @@
+{
+ "steps": [
+  {
+   "photo": "photos_selection/isolation/isolation-murs-ossature-metallique-laine-de-verre-chantier.jpg",
+   "tag": "MURS",
+   "cap": "Laine de verre sur ossature métallique"
+  },
+  {
+   "photo": "photos_selection/isolation/isolation-plafond-membrane-vario-ossature.jpg",
+   "tag": "PLAFOND",
+   "cap": "Membrane pare-vapeur"
+  },
+  {
+   "photo": "photos_selection/isolation/isolation-plafond-murs-membrane-pare-vapeur.jpg",
+   "tag": "PIÈCE ENTIÈRE",
+   "cap": "Murs et plafond isolés"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "pierre",
+  "kick": "ISOLATION · RGE",
+  "title": "Isoler par l'intérieur.",
+  "sub": "Isolant, pare-vapeur, doublage. Dossier CEE pris en charge, selon éligibilité.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "steps": [
+  {
+   "photo": "photos_selection/placo/platrerie-faux-plafond-ossature-metallique-avant-plaques-de-platre.jpg",
+   "tag": "OSSATURE",
+   "cap": "Rails et fourrures métalliques"
+  },
+  {
+   "photo": "photos_selection/placo/placo-cloison-arrondie-plafond-bandes.jpg",
+   "tag": "COURBE",
+   "cap": "Cloison arrondie, bandes à joints"
+  },
+  {
+   "photo": "photos_selection/placo/placo-faux-plafond-courbe-cloison-enduite.jpg",
+   "tag": "ENDUIT",
+   "cap": "Faux plafond courbe enduit"
+  },
+  {
+   "photo": "photos_selection/placo/placo-arche-cloison-poutre-metallique.jpg",
+   "tag": "ARCHE",
+   "cap": "Une arche en plaques de plâtre"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "blanc",
+  "kick": "PLÂTRERIE · LYON",
+  "title": "Courbes, arches et faux plafonds.",
+  "sub": "Des formes sur mesure, prêtes à peindre.",
+  "foot": "Devis gratuit · message privé"
+ }
+}
