@@ -189,3 +189,12 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Les posts IG/FB du 26/11 au 31/12 ont été réordonnés pour une alternance irrégulière cartes / photos (jamais plus de 3 jours du même type). 13→25/11 inchangés (stories déjà calées dessus), 24/12 et 1/1 fixes.
 - Le vrai ordre est dans `sources/ordre_igfb_2611_3112.json` (date → type C/P → sujet). Le fichier plan_1711_0101.py ne reflète PLUS les dates IG/FB : pour les stories du jour, se baser sur ce fichier ou sur getScheduledPosts, jamais sur plan_1711_0101.D.
 - LinkedIn page et Google gardent leurs dates d'origine.
+
+## STRATÉGIE REELS — OBJECTIF ABONNÉS (22/11/2026, consigne du gérant : « gagner beaucoup d'abonnés »)
+- Décembre : 8 reels IG/FB (21/11, 28/11, 2/12, 4/12, 9/12, 13/12, 17/12, 22/12, 26/12). Les 5 posts photo remplacés ont été décalés aux 2, 4, 6, 8 et 11/01 (déjà programmés).
+- **À partir de janvier : 3 reels IG/FB par semaine (mardi, jeudi, dimanche)**, à l'heure du post du jour (12 h 30 semaine, 10 h week-end). Les autres jours : cartes et photos, alternance irrégulière (un reel compte côté « photo »). Vérifier dans Metricool ce qui est déjà programmé (posts décalés de janvier) avant de remplir une semaine.
+- Fabrication : `python3 tools/reel.py $PWD/sources/<spec>.json $PWD/reels/<nom>.mp4` (chemins absolus). Spec : 3-4 étapes + carte de fin, `"dur":2.4,"fade":0.5` (≈10 s), et **`"hook"` sur la 1re étape** (phrase d'accroche courte : question, chiffre, promesse).
+- Thèmes possibles avec les photos restantes : un métier en 3-4 photos (sols PVC/moquette, parquet, papier peint, carrelage sols), « vrai/faux » ou conseils repris des cartes en version animée, couleurs. Tags = type de travail ou étape, JAMAIS « AVANT » sans vraie photo avant ; si les photos viennent de chantiers différents, l'écrire (« images de plusieurs chantiers ») et ne jamais laisser croire que c'est la même pièce.
+- Texte : accroche en 1re ligne, appel à commenter quand c'est naturel, puis « 👉 Abonnez-vous pour suivre nos chantiers à Lyon. » et « Devis gratuit : écrivez-nous en message privé. » Jamais « artisan ».
+- Marquer les photos utilisées dans photos_selection/catalogue.md.
+- Demandé au gérant : vidéos verticales de 10-15 s filmées sur chantier et vraies photos AVANT (même angle que l'après) : à utiliser en priorité dès réception.

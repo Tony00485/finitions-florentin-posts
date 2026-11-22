@@ -66,8 +66,8 @@
  },
  {
   "date": "2026-12-09",
-  "type": "P",
-  "sujet": "Cuisine avec crédence en faïence verte et sol en carreaux de ciment, réalisée par Finitions Florentin."
+  "type": "V",
+  "sujet": "Reel : 4 étapes salle de bains"
  },
  {
   "date": "2026-12-10",
@@ -86,8 +86,8 @@
  },
  {
   "date": "2026-12-13",
-  "type": "P",
-  "sujet": "Devanture d'une boutique de vêtements repeinte par Finitions Florentin."
+  "type": "V",
+  "sujet": "Reel : couleurs"
  },
  {
   "date": "2026-12-14",
@@ -106,8 +106,8 @@
  },
  {
   "date": "2026-12-17",
-  "type": "P",
-  "sujet": "Salon avec moulures, placards blancs et cheminée, repeint par Finitions Florentin."
+  "type": "V",
+  "sujet": "Reel : préparation → finition"
  },
  {
   "date": "2026-12-18",
@@ -131,8 +131,8 @@
  },
  {
   "date": "2026-12-22",
-  "type": "P",
-  "sujet": "Mur rouge vif avec niches blanches aux formes ondulées, réalisé par Finitions Florentin."
+  "type": "V",
+  "sujet": "Reel : plâtrerie courbes"
  },
  {
   "date": "2026-12-23",
@@ -151,8 +151,8 @@
  },
  {
   "date": "2026-12-26",
-  "type": "P",
-  "sujet": "Douche en faïence bleue posée à la verticale avec niche, réalisée par Finitions Florentin."
+  "type": "V",
+  "sujet": "Reel : isolation intérieure"
  },
  {
   "date": "2026-12-27",
@@ -178,5 +178,30 @@
   "date": "2026-12-31",
   "type": "P",
   "sujet": "Entrée avec arche, boiseries et parquet en chevrons, repeinte par Finitions Florentin."
+ },
+ {
+  "date": "2027-01-02",
+  "type": "P",
+  "sujet": "Crédence verte (décalé)"
+ },
+ {
+  "date": "2027-01-04",
+  "type": "P",
+  "sujet": "Devanture boutique (décalé)"
+ },
+ {
+  "date": "2027-01-06",
+  "type": "P",
+  "sujet": "Salon moulures (décalé)"
+ },
+ {
+  "date": "2027-01-08",
+  "type": "P",
+  "sujet": "Mur rouge niches (décalé)"
+ },
+ {
+  "date": "2027-01-11",
+  "type": "P",
+  "sujet": "Douche faïence bleue (décalé)"
  }
 ]
