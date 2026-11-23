@@ -37,6 +37,10 @@ def split(c):
 <body><img class="a" src="{img64(c["avant"])}"><img class="b" src="{img64(c["apres"])}"><img class="lg" src="{R.L}">
 <div class="tag" style="top:600px">{c.get("taga","PENDANT")}</div><div class="mid">{nb(c["title"])}</div><div class="tag" style="top:860px">{c.get("tagb","APRÈS")}</div>
 <div class="band"><div class="fl">{nb(c.get("foot",""))}</div><div class="btn">{c.get("cta","Devis gratuit")}</div></div>'''
+def pure(c):
+    """Photo plein écran, logo discret, aucun texte (stories « Réalisations » à la une)."""
+    return f'''<style>*{{margin:0}}body{{width:1080px;height:1920px;overflow:hidden;background:#000}}.ph{{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;object-position:{c.get("pos","50% 50%")}}}
+.lg{{position:absolute;left:80px;top:240px;width:300px;padding:18px 22px;background:#fff}}</style><body><img class="ph" src="{img64(c["photo"])}"><img class="lg" src="{R.L}">'''
 async def main(spec,out):
     from playwright.async_api import async_playwright
     os.makedirs(out,exist_ok=True)
@@ -44,7 +48,7 @@ async def main(spec,out):
         b=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
         pg=await b.new_page(viewport={"width":1080,"height":1920})
         for c in spec:
-            h={'card':card,'photo':photo,'split':split}[c['kind']](c)
+            h={'card':card,'photo':photo,'split':split,'pure':pure}[c['kind']](c)
             await pg.set_content(f"<html>{h}</html>"); await pg.wait_for_timeout(500)
             await pg.screenshot(path=os.path.join(out,c['out']+'.png')); print('ok',c['out'])
         await b.close()

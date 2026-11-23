@@ -1,0 +1,137 @@
+[
+ {
+  "out": "une_realisations_1",
+  "kind": "pure",
+  "photo": "photos_selection/peinture/peinture-facade-orange-terrasse-bois-lyon.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_2",
+  "kind": "pure",
+  "photo": "photos_selection/carrelage-faience/carrelage-douche-mosaique-hexagonale-banc.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_3",
+  "kind": "pure",
+  "photo": "photos_selection/peinture/peinture-salon-haussmannien-cheminee-marbre-rose.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_4",
+  "kind": "pure",
+  "photo": "photos_selection/papier-peint/papier-peint-acanthe-vert-fonce-mur-bois.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_5",
+  "kind": "pure",
+  "photo": "photos_selection/peinture/peinture-cuisine-bordeaux-ilot-central.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_6",
+  "kind": "pure",
+  "photo": "photos_selection/placo/platrerie-faux-plafond-spots-encastres-piece-finie.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_7",
+  "kind": "pure",
+  "photo": "photos_selection/sols/parquet/parquet-escalier-chene-naturel.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_realisations_8",
+  "kind": "pure",
+  "photo": "photos_selection/peinture/peinture-escalier-chene-courbe-blanche-porte-bleu-canard.jpg",
+  "pos": "50% 50%"
+ },
+ {
+  "out": "une_metiers_1",
+  "kind": "photo",
+  "theme": "blanc",
+  "photo": "photos_selection/peinture/peinture-salon-moulures-cheminee-placards-blancs.jpg",
+  "pos": "50% 45%",
+  "paneltop": 1060,
+  "kick": "PEINTURE",
+  "title": "Murs, plafonds, boiseries.",
+  "sub": "Intérieur et extérieur, préparation soignée des supports.",
+  "foot": "Nos métiers"
+ },
+ {
+  "out": "une_metiers_2",
+  "kind": "photo",
+  "theme": "pierre",
+  "photo": "photos_selection/placo/placo-couloir-arche-cloisons.jpg",
+  "pos": "50% 45%",
+  "paneltop": 1060,
+  "kick": "PLÂTRERIE",
+  "title": "Cloisons, doublages, faux plafonds.",
+  "sub": "Plaques de plâtre, arches, niches et courbes sur mesure.",
+  "foot": "Nos métiers"
+ },
+ {
+  "out": "une_metiers_3",
+  "kind": "photo",
+  "theme": "marine",
+  "photo": "photos_selection/isolation/isolation-rampants-combles-laine-de-verre.jpg",
+  "pos": "50% 45%",
+  "paneltop": 1060,
+  "kick": "ISOLATION · RGE",
+  "title": "Isolation par l'intérieur.",
+  "sub": "Murs, plafonds, combles. Dossier CEE pris en charge, selon éligibilité.",
+  "foot": "Nos métiers"
+ },
+ {
+  "out": "une_metiers_4",
+  "kind": "photo",
+  "theme": "blanc",
+  "photo": "photos_selection/carrelage-faience/carrelage-douche-pierre-travertin-receveur.jpg",
+  "pos": "50% 45%",
+  "paneltop": 1060,
+  "kick": "CARRELAGE",
+  "title": "Salles de bains, faïence, sols.",
+  "sub": "Étanchéité de la douche traitée avant la pose.",
+  "foot": "Nos métiers"
+ },
+ {
+  "out": "une_metiers_5",
+  "kind": "photo",
+  "theme": "pierre",
+  "photo": "photos_selection/sols/parquet/parquet-chene-miel-piece-blanche.jpg",
+  "pos": "50% 45%",
+  "paneltop": 1060,
+  "kick": "SOLS",
+  "title": "Parquet, PVC, moquette.",
+  "sub": "Préparation du support, pose, ponçage et vitrification.",
+  "foot": "Nos métiers"
+ },
+ {
+  "kick": "DEVIS GRATUIT",
+  "title": "Un projet de rénovation ?",
+  "sub": "Écrivez-nous en message privé : nous revenons vers vous rapidement.",
+  "theme": "marine",
+  "out": "une_devis_1",
+  "kind": "card",
+  "foot": "Devis gratuit : message privé"
+ },
+ {
+  "kick": "POUR VOTRE DEVIS",
+  "title": "Ce qui nous aide.",
+  "sub": "Les pièces concernées, quelques photos, vos envies : teintes, finitions.",
+  "theme": "pierre",
+  "out": "une_devis_2",
+  "kind": "card",
+  "foot": "Devis gratuit : message privé"
+ },
+ {
+  "kick": "NOS ENGAGEMENTS",
+  "title": "Devis clair et détaillé.",
+  "sub": "Planning annoncé, finitions soignées, chantier propre, un seul interlocuteur.",
+  "theme": "ciel",
+  "out": "une_devis_3",
+  "kind": "card",
+  "foot": "Devis gratuit : message privé"
+ }
+]
