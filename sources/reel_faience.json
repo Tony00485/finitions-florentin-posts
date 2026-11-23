@@ -1,0 +1,30 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/carrelage-faience/faience-baignoire-metro-blanc-joints-fonces.jpg",
+   "tag": "MÉTRO",
+   "cap": "Joints foncés",
+   "hook": "Métro, mosaïque ou grand format ?"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-salle-de-bains-mosaique-blanche-baignoire.jpg",
+   "tag": "MOSAÏQUE",
+   "cap": "Baignoire habillée"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-mur-gris-grand-format-salle-de-bains.jpg",
+   "tag": "GRAND FORMAT",
+   "cap": "Gris, en cours de chantier"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "ciel",
+  "kick": "SALLE DE BAINS · LYON",
+  "title": "Votre préférée ?",
+  "sub": "Dites-le-nous en commentaire.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

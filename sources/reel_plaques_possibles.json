@@ -1,0 +1,35 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/placo/placo-piece-plaques-de-platre-fenetre.jpg",
+   "tag": "DOUBLAGE",
+   "cap": "Une pièce entière",
+   "hook": "Plaques de plâtre : tout est possible"
+  },
+  {
+   "photo": "photos_selection/placo/placo-piece-complete-cloisons-fenetre.jpg",
+   "tag": "CLOISONS",
+   "cap": "Nouvelle distribution"
+  },
+  {
+   "photo": "photos_selection/placo/placo-habillage-mural-niches-reseaux.jpg",
+   "tag": "NICHES",
+   "cap": "Habillage mural sur mesure"
+  },
+  {
+   "photo": "photos_selection/placo/placo-faux-plafond-courbe-cloison-angle.jpg",
+   "tag": "COURBES",
+   "cap": "Faux plafond courbe"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "blanc",
+  "kick": "PLÂTRERIE · LYON",
+  "title": "Vos idées, en plaques de plâtre.",
+  "sub": "Cloisons, doublages, niches, courbes.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

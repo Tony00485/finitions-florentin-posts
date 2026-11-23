@@ -1,0 +1,35 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-sol-geometrique-noir-et-blanc.jpg",
+   "tag": "GRAPHIQUE",
+   "cap": "Noir et blanc",
+   "hook": "Le sol qui change tout"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-sol-dalles-pierre-naturelle-salle-de-bains.jpg",
+   "tag": "PIERRE",
+   "cap": "Dalles en pierre naturelle"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-grand-format-effet-metal-oxyde.jpg",
+   "tag": "GRAND FORMAT",
+   "cap": "Effet métal oxydé"
+  },
+  {
+   "photo": "photos_selection/carrelage-faience/carrelage-wc-marbre-grand-format-pose.jpg",
+   "tag": "EFFET MARBRE",
+   "cap": "En cours de pose"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "blanc",
+  "kick": "CARRELAGE · LYON",
+  "title": "Vous choisiriez lequel ?",
+  "sub": "Dites-le-nous en commentaire.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

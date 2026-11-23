@@ -1,0 +1,35 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/isolation/isolation-murs-laine-de-verre-angle.jpg",
+   "tag": "ANGLES",
+   "cap": "Isolant posé en continu",
+   "hook": "Isoler jusque dans les angles"
+  },
+  {
+   "photo": "photos_selection/isolation/isolation-murs-laine-de-verre-autour-fenetre.jpg",
+   "tag": "FENÊTRES",
+   "cap": "Autour des menuiseries"
+  },
+  {
+   "photo": "photos_selection/isolation/isolation-murs-laine-de-verre-gaines-reseaux.jpg",
+   "tag": "RÉSEAUX",
+   "cap": "Gaines prises en compte"
+  },
+  {
+   "photo": "photos_selection/isolation/isolation-murs-laine-de-verre-plaque-hydrofuge.jpg",
+   "tag": "PIÈCE HUMIDE",
+   "cap": "Avec plaque hydrofuge"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "marine",
+  "kick": "ISOLATION · RGE",
+  "title": "Les détails comptent.",
+  "sub": "Isolation par l'intérieur. Dossier CEE pris en charge, selon éligibilité.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

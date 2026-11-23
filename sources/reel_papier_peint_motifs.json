@@ -1,0 +1,35 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/papier-peint/papier-peint-mur-triangles-3d-salon-poutres-blanches.jpg",
+   "tag": "GÉOMÉTRIQUE",
+   "cap": "Effet 3D dans un salon",
+   "hook": "Papier peint : vous osez le motif ?"
+  },
+  {
+   "photo": "photos_selection/papier-peint/papier-peint-panoramique-tropical-veranda-sol-gris.jpg",
+   "tag": "PANORAMIQUE",
+   "cap": "Une véranda tropicale"
+  },
+  {
+   "photo": "photos_selection/papier-peint/papier-peint-art-deco-eventails-bleu-canard.jpg",
+   "tag": "ART DÉCO",
+   "cap": "Éventails bleu canard"
+  },
+  {
+   "photo": "photos_selection/papier-peint/papier-peint-paons-bleu-nuit-sous-escalier.jpg",
+   "tag": "PAONS",
+   "cap": "Sous l'escalier"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "degrade",
+  "kick": "PAPIER PEINT · LYON",
+  "title": "Lequel vous ressemble ?",
+  "sub": "Dites-le-nous en commentaire.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

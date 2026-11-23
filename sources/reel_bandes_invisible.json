@@ -1,0 +1,35 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/placo/placo-petite-piece-bandes-a-joints-parquet.jpg",
+   "tag": "BANDES",
+   "cap": "Jonctions entre plaques",
+   "hook": "Ce que vous ne voyez jamais sous la peinture"
+  },
+  {
+   "photo": "photos_selection/placo/placo-plafond-caissons-bandes-a-joints.jpg",
+   "tag": "PLAFOND",
+   "cap": "Bandes et enduit"
+  },
+  {
+   "photo": "photos_selection/placo/placo-cloisons-gaines-enduit-reprises.jpg",
+   "tag": "ENDUIT",
+   "cap": "Reprises autour des gaines"
+  },
+  {
+   "photo": "photos_selection/placo/placo-enduit-mur-sous-plafond-poutres-bois.jpg",
+   "tag": "PRÉPARATION",
+   "cap": "Sous un plafond à poutres"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "pierre",
+  "kick": "PLÂTRERIE · LYON",
+  "title": "Le travail invisible.",
+  "sub": "Bandes, enduit, ponçage : c'est ce qui évite les fissures.",
+  "foot": "Devis gratuit · message privé"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "dur": 2.4,
+ "fade": 0.5,
+ "steps": [
+  {
+   "photo": "photos_selection/placo/placo-allege-verriere-noire-reseaux-apparents.jpg",
+   "tag": "PLÂTRERIE",
+   "cap": "Allège et verrière",
+   "hook": "Des bureaux rénovés de A à Z"
+  },
+  {
+   "photo": "photos_selection/placo/placo-bandes-a-joints-couloir-bureaux-plafond-dalles.jpg",
+   "tag": "BANDES À JOINTS",
+   "cap": "Un couloir de bureaux"
+  },
+  {
+   "photo": "photos_selection/placo/placo-plafond-dalles-blanches-bureaux.jpg",
+   "tag": "PLAFOND",
+   "cap": "Dalles blanches"
+  },
+  {
+   "photo": "photos_selection/sols/pvc-moquette/moquette-gris-chine-bureaux-blancs.jpg",
+   "tag": "MOQUETTE",
+   "cap": "Sol des bureaux"
+  },
+  {
+   "photo": "photos_selection/sols/pvc-moquette/sol-pvc-lames-effet-bois-espace-bureaux.jpg",
+   "tag": "SOL PVC",
+   "cap": "Lames effet bois"
+  }
+ ],
+ "end": {
+  "kind": "card",
+  "theme": "marine",
+  "kick": "PROFESSIONNELS · LYON",
+  "title": "Bureaux, commerces, cabinets.",
+  "sub": "Plâtrerie, peinture et sols : un seul interlocuteur.",
+  "foot": "Devis gratuit · message privé"
+ }
+}
