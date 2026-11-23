@@ -232,3 +232,5 @@ Importance : haute. Il manque la vraie note et le nombre d'avis (ne rien invente
 
 ## POST ÉQUIPE (23/11)
 Post « Anthony & Jordan D'Orazio, gérants » programmé le 24/11 à 8h (IG/FB/LinkedIn page). Outil : tools/duo_equipe.py, visuel ig/equipe/duo_anthony_jordan.png. Pas de dates précises ni d'histoire du père sur l'image. Accord de Jordan non confirmé explicitement (photo déjà dans la plaquette). LinkedIn perso : seulement si Anthony le demande (1re personne).
+
+NOTE GOOGLE (décision 23/11) : post 4,9/5 · 220 avis uniquement sur IG/FB/LinkedIn page (PAS sur la fiche Google, redondant). Visuel : tools/note_google_plain.py → ig/avis/note_google_ig.png (bandeau rouge « 220 avis clients »).
