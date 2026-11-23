@@ -1,35 +1,53 @@
 #!/usr/bin/env python3
-"""Visuel « note Google » (render2 pierre). Usage : python3 tools/note_google.py NOTE NB_AVIS $PWD/ig/note_google.png [ig|google]
+"""Visuel « note Google » avec photo (style render2 pierre).
+Usage : python3 tools/note_google.py NOTE NB_AVIS PHOTO_RELATIVE_PATH $PWD/sortie.png [ig|google]
 ig = 1080x1350 ; google = 1200x900 (sans site/tel/email)."""
-import sys, os, asyncio
+import sys, os, asyncio, base64
 HERE=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,HERE)
-import render2 as R, base64
-GL='data:image/png;base64,'+base64.b64encode(open(os.path.join(os.path.dirname(HERE),'photos_selection/logos/google_avis_clean.png'),'rb').read()).decode()
-def html(note,nb,mode):
-    T=R.TH['pierre']; W,H=(1080,1350) if mode=='ig' else (1200,900)
-    if mode=='ig': big,lg,top,fh,ts,ss=380,300,260,170,66,32
-    else: big,lg,top,fh,ts,ss=230,250,178,120,50,27
-    return f'''<style>*{{margin:0;box-sizing:border-box}}body{{width:{W}px;height:{H}px;position:relative;overflow:hidden;font-family:Poppins,sans-serif;background:{T["bg"]};color:{T["t"]}}}
-.lg{{position:absolute;left:60px;top:55px;width:{lg}px;padding:16px 20px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.15)}}
-.k{{position:absolute;left:80px;top:{top}px;font-size:25px;font-weight:700;letter-spacing:7px;color:{T["k"]}}}
-.n{{position:absolute;left:70px;top:{top-10}px;font-size:{big}px;line-height:1;font-weight:800;letter-spacing:-8px;color:{R.N}}}.n small{{font-size:{big//3}px;letter-spacing:0;color:#4A5776;font-weight:700}}
-.st{{position:absolute;left:80px;top:{top-10+big+20}px;display:flex;align-items:center;gap:28px}}.st img{{height:{int(big*0.42)}px;box-shadow:0 6px 18px rgba(0,0,0,.12)}}.st span{{font-size:{big//9}px;color:{R.N};font-weight:700}}
-.t{{position:absolute;left:80px;top:{top-10+big+20+int(big*0.42)+60}px;width:{W-160}px;font-size:{ts}px;line-height:1.08;font-weight:800;letter-spacing:-1.5px}}
-.rule{{position:absolute;left:80px;top:{top-10+big+20+int(big*0.42)+60+int(ts*1.15)+34}px;width:100px;height:6px;background:#E31B0F}}
-.s{{position:absolute;left:80px;top:{top-10+big+20+int(big*0.42)+60+int(ts*1.15)+68}px;width:{W-160}px;font-size:{ss}px;line-height:1.35;font-weight:500;color:{T["v"]}}}
-.foot{{position:absolute;left:0;right:0;bottom:0;height:{fh}px;background:{T["foot"]};display:flex;justify-content:space-between;align-items:center;padding:0 80px}}
-.fl{{font-size:28px;font-weight:700;color:{T["fl"]}}}.btn{{background:{T["btn"]};color:{T["btnt"]};font-size:30px;font-weight:800;padding:24px 48px}}</style>
-<body><img class="lg" src="{R.L}"><div class="n">{note}<small>/5</small></div>
-<div class="st"><img src="{GL}"><span>{nb} avis clients</span></div>
-<div class="t">Merci pour votre confiance</div><div class="rule"></div>
-<div class="s">Merci à tous ceux qui ont laissé un avis.</div>
+import render2 as R
+ROOT=os.path.dirname(HERE)
+def b64(rel,mime):
+    return f"data:{mime};base64,"+base64.b64encode(open(os.path.join(ROOT,rel),'rb').read()).decode()
+GL=b64('photos_selection/logos/google_avis_clean.png','image/png')
+def html(note,nb,photo,mode):
+    T=R.TH['pierre']; ph=b64(photo,'image/jpeg')
+    base=f'''*{{margin:0;box-sizing:border-box}}body{{position:relative;overflow:hidden;font-family:Poppins,sans-serif;background:{T["bg"]};color:{T["t"]}}}
+.card{{position:absolute;background:#fff;box-shadow:0 14px 40px rgba(20,38,79,.22);border-top:6px solid #E31B0F}}
+.num{{font-weight:800;letter-spacing:-6px;color:{R.N};line-height:.9}}.num small{{letter-spacing:0;color:#4A5776;font-weight:700}}
+.avis{{font-weight:700;color:{R.N}}}.rule{{width:100px;height:6px;background:#E31B0F}}
+.foot{{position:absolute;left:0;right:0;bottom:0;background:{T["foot"]};display:flex;justify-content:space-between;align-items:center;padding:0 80px}}
+.fl{{font-size:28px;font-weight:700;color:{T["fl"]}}}.btn{{background:{T["btn"]};color:{T["btnt"]};font-size:30px;font-weight:800;padding:24px 48px}}'''
+    if mode=='ig':
+        return f'''<style>{base}body{{width:1080px;height:1350px}}
+.ph{{position:absolute;left:0;top:0;width:1080px;height:720px;object-fit:cover;object-position:50% 88%}}
+.lg{{position:absolute;left:44px;top:44px;width:270px;padding:16px 20px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.18)}}
+.card{{left:70px;top:520px;width:940px;height:330px;display:flex;align-items:center;gap:50px;padding:0 50px}}
+.num{{font-size:230px}}.num small{{font-size:76px}}.gl{{height:150px}}.avis{{font-size:34px;margin-top:14px}}
+.t{{position:absolute;left:80px;top:920px;width:920px;font-size:62px;line-height:1.05;font-weight:800;letter-spacing:-1.5px;white-space:nowrap}}
+.rule{{position:absolute;left:80px;top:1010px}}.s{{position:absolute;left:80px;top:1042px;font-size:31px;font-weight:500;color:{T["v"]}}}
+.foot{{height:150px}}</style>
+<body><img class="ph" src="{ph}"><img class="lg" src="{R.L}">
+<div class="card"><div class="num">{note}<small>/5</small></div><div><img class="gl" src="{GL}"><div class="avis">{nb} avis clients</div></div></div>
+<div class="t">Merci pour votre confiance</div><div class="rule"></div><div class="s">Merci à tous ceux qui ont laissé un avis.</div>
 <div class="foot"><div class="fl">Lyon et alentours</div><div class="btn">Devis gratuit</div></div>'''
-async def main(note,nb,out,mode):
+    return f'''<style>{base}body{{width:1200px;height:900px}}
+.ph{{position:absolute;left:0;top:0;width:520px;height:900px;object-fit:cover;object-position:62% 85%}}
+.lg{{position:absolute;left:560px;top:50px;width:240px;padding:14px 18px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.12)}}
+.num{{position:absolute;left:556px;top:170px;font-size:200px}}.num small{{font-size:64px}}
+.gl{{position:absolute;left:560px;top:380px;height:100px;box-shadow:0 6px 18px rgba(0,0,0,.12)}}.avis{{position:absolute;left:800px;top:410px;font-size:30px}}
+.t{{position:absolute;left:560px;top:530px;width:600px;font-size:44px;white-space:nowrap;line-height:1.1;font-weight:800;letter-spacing:-1px}}
+.rule{{position:absolute;left:560px;top:630px}}.s{{position:absolute;left:560px;top:660px;width:600px;font-size:25px;font-weight:500;color:{T["v"]}}}
+.foot{{height:120px;left:520px;padding:0 50px}}</style>
+<body><img class="ph" src="{ph}"><img class="lg" src="{R.L}">
+<div class="num">{note}<small>/5</small></div><img class="gl" src="{GL}"><div class="avis">{nb} avis clients</div>
+<div class="t">Merci pour votre confiance</div><div class="rule"></div><div class="s">Merci à tous ceux qui ont laissé un avis.</div>
+<div class="foot"><div class="fl">Lyon et alentours</div><div class="btn" style="font-size:24px;padding:20px 32px">Devis gratuit</div></div>'''
+async def main(note,nb,photo,out,mode):
     from playwright.async_api import async_playwright
     W,H=(1080,1350) if mode=='ig' else (1200,900)
     async with async_playwright() as p:
         br=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
         pg=await br.new_page(viewport={"width":W,"height":H})
-        await pg.set_content(f"<html>{html(note,nb,mode)}</html>"); await pg.wait_for_timeout(500)
+        await pg.set_content(f"<html>{html(note,nb,photo,mode)}</html>"); await pg.wait_for_timeout(500)
         await pg.screenshot(path=out); await br.close()
-asyncio.run(main(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4] if len(sys.argv)>4 else 'ig'))
+asyncio.run(main(*sys.argv[1:5],sys.argv[5] if len(sys.argv)>5 else 'ig'))
