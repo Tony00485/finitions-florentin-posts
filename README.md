@@ -219,3 +219,10 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - MESURE CHAQUE MERCREDI (avant de programmer la semaine suivante) : via getAnalyticsDataByMetrics (connecteurs Instagram posts/reels : IGPO28 vues, IGPO14 portée, IGPO15 enregistrements, IGPO27 partages, IGPO29 abonnés gagnés, IGPO12 interactions), relever les 3 meilleurs et les 3 moins bons posts des 7 derniers jours, comparer les créneaux, en tirer 2-3 décisions pour la semaine suivante. Écrire le bilan court dans bilans/AAAA-MM-JJ.md (commit + push) pour qu'Anthony puisse le copier.
 - Hors périmètre : répondre aux commentaires et messages privés, suivre/commenter des comptes locaux (géré par Anthony).
 - À demander à Anthony (en attente) : vidéos verticales de chantier 10-15 s ; vraies photos AVANT ; photos/vidéos de l'équipe au travail (avec accord des personnes) ; le quartier ou la commune de chaque chantier ; photo ou vidéo d'Anthony et Jordan (avec accord de Jordan) ; quelques avis clients avec leur accord.
+
+## ACCÉLÉRATION (23/11/2026 soir, consigne d'Anthony : « augmenter la cadence, ne pas attendre »)
+- 8 reels supplémentaires créés et programmés à 20 h (EN PLUS du post de 12 h 30/10 h) : 25/11 sols, 29/11 papier peint, 6/12 bureaux, 11/12 carrelage sols, 15/12 bandes à joints, 20/12 faïence, 28/12 isolation détails, 30/12 plâtrerie. Décembre = 3 reels/semaine dès maintenant (17 reels au total du 21/11 au 30/12).
+- Les jours de reel du soir, il y a 2 publications IG/FB (post de midi + reel de 20 h) : c'est voulu.
+- Toutes les légendes IG/FB programmées (posts photo/carte du 24/11 au 11/01) ont été réécrites : CTA varié (rotation de 5 formules) + hashtags locaux (#renovationlyon #lyon #finitionsflorentin + 1-2 hashtags métier). Les nouvelles légendes doivent suivre ce modèle.
+- Janvier : minimum 3 reels/semaine (mardi, jeudi, dimanche) à 20 h, en plus du post du jour, tant que les photos le permettent ; priorité absolue aux vidéos d'Anthony dès réception.
+- Photos encore non utilisées en reel : voir photos_selection/catalogue.md (marquer chaque photo utilisée).
