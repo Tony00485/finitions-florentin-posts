@@ -226,3 +226,9 @@ Le gérant a envoyé le dossier « PHOTOS DE CHANTIER », classé par activité 
 - Toutes les légendes IG/FB programmées (posts photo/carte du 24/11 au 11/01) ont été réécrites : CTA varié (rotation de 5 formules) + hashtags locaux (#renovationlyon #lyon #finitionsflorentin + 1-2 hashtags métier). Les nouvelles légendes doivent suivre ce modèle.
 - Janvier : minimum 3 reels/semaine (mardi, jeudi, dimanche) à 20 h, en plus du post du jour, tant que les photos le permettent ; priorité absolue aux vidéos d'Anthony dès réception.
 - Photos encore non utilisées en reel : voir photos_selection/catalogue.md (marquer chaque photo utilisée).
+
+## À FAIRE PROCHAINEMENT : POST « NOTE GOOGLE » (demandé par Anthony le 23/11)
+Importance : haute. Il manque la vraie note et le nombre d'avis (ne rien inventer) + 1-2 avis à citer avec accord du client (texte + prénom seulement). Quand Anthony les envoie : visuel (note + étoiles, "Merci à nos clients", Devis gratuit), légende invitant à laisser un avis, IG/FB/LinkedIn page + post Google (sans email/téléphone/site), éventuellement story à la une « Avis clients ». Date proposée : jeudi 26/11.
+
+## POST ÉQUIPE (23/11)
+Post « Anthony & Jordan D'Orazio, gérants » programmé le 24/11 à 8h (IG/FB/LinkedIn page). Outil : tools/duo_equipe.py, visuel ig/equipe/duo_anthony_jordan.png. Pas de dates précises ni d'histoire du père sur l'image. Accord de Jordan non confirmé explicitement (photo déjà dans la plaquette). LinkedIn perso : seulement si Anthony le demande (1re personne).
