@@ -18,7 +18,7 @@ def html(a,j):
 <body><img class="p" style="left:0" src="{b(a)}"><img class="p" style="left:540px" src="{b(j)}">
 <img class="lg" src="{R.L}"><div class="n" style="left:0">Anthony D'Orazio<small>Gérant · Commercial et administratif</small></div><div class="n" style="left:540px">Jordan D'Orazio<small>Gérant · Technique et coordination</small></div>
 <div class="k">DEUX FRÈRES, UNE ENTREPRISE</div><div class="t">Anthony &amp; Jordan D'Orazio</div>
-<div class="s">Entreprise lyonnaise fondée en 2005, dirigée par Anthony et Jordan depuis 2019.</div>
+<div class="s">Entreprise lyonnaise familiale, fondée avec leur père et dirigée par Anthony et Jordan.</div>
 <div class="foot"><div class="fl">Lyon et alentours</div><div class="btn">Devis gratuit</div></div>'''
 async def main(a,j,out):
     from playwright.async_api import async_playwright
