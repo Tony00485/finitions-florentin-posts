@@ -21,25 +21,25 @@ def html(note,nb,photo,mode):
         return f'''<style>{base}body{{width:1080px;height:1350px}}
 .ph{{position:absolute;left:0;top:0;width:1080px;height:720px;object-fit:cover;object-position:50% 88%}}
 .lg{{position:absolute;left:44px;top:44px;width:270px;padding:16px 20px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.18)}}
-.card{{left:70px;top:520px;width:940px;height:330px;display:flex;align-items:center;gap:50px;padding:0 50px}}
-.num{{font-size:230px}}.num small{{font-size:76px}}.gl{{height:150px}}.avis{{font-size:34px;margin-top:14px}}
+.card{{left:70px;top:520px;width:940px;height:330px;display:flex;align-items:center;gap:40px;padding:0 40px}}
+.num{{font-size:230px}}.num small{{font-size:76px}}.gl{{height:118px;display:block}}.avis{{font-size:30px;margin-top:4px;display:flex;align-items:baseline;gap:14px;white-space:nowrap}}.big{{font-size:92px;font-weight:800;color:#E31B0F;letter-spacing:-2px}}
 .t{{position:absolute;left:80px;top:920px;width:920px;font-size:62px;line-height:1.05;font-weight:800;letter-spacing:-1.5px;white-space:nowrap}}
 .rule{{position:absolute;left:80px;top:1010px}}.s{{position:absolute;left:80px;top:1042px;font-size:31px;font-weight:500;color:{T["v"]}}}
 .foot{{height:150px}}</style>
 <body><img class="ph" src="{ph}"><img class="lg" src="{R.L}">
-<div class="card"><div class="num">{note}<small>/5</small></div><div><img class="gl" src="{GL}"><div class="avis">{nb} avis clients</div></div></div>
+<div class="card"><div class="num">{note}<small>/5</small></div><div><img class="gl" src="{GL}"><div class="avis"><b class="big">{nb}</b> avis clients</div></div></div>
 <div class="t">Merci pour votre confiance</div><div class="rule"></div><div class="s">Merci à tous ceux qui ont laissé un avis.</div>
 <div class="foot"><div class="fl">Lyon et alentours</div><div class="btn">Devis gratuit</div></div>'''
     return f'''<style>{base}body{{width:1200px;height:900px}}
 .ph{{position:absolute;left:0;top:0;width:520px;height:900px;object-fit:cover;object-position:62% 85%}}
 .lg{{position:absolute;left:560px;top:50px;width:240px;padding:14px 18px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.12)}}
-.num{{position:absolute;left:556px;top:170px;font-size:200px}}.num small{{font-size:64px}}
-.gl{{position:absolute;left:560px;top:380px;height:100px;box-shadow:0 6px 18px rgba(0,0,0,.12)}}.avis{{position:absolute;left:800px;top:410px;font-size:30px}}
+.num{{position:absolute;left:556px;top:140px;font-size:200px}}.num small{{font-size:64px}}
+.gl{{position:absolute;left:560px;top:340px;height:100px;box-shadow:0 6px 18px rgba(0,0,0,.12)}}.avis{{position:absolute;left:800px;top:350px;font-size:28px;line-height:1}}.big{{display:block;font-size:84px;font-weight:800;color:#E31B0F;letter-spacing:-2px;margin-bottom:2px}}
 .t{{position:absolute;left:560px;top:530px;width:600px;font-size:44px;white-space:nowrap;line-height:1.1;font-weight:800;letter-spacing:-1px}}
 .rule{{position:absolute;left:560px;top:630px}}.s{{position:absolute;left:560px;top:660px;width:600px;font-size:25px;font-weight:500;color:{T["v"]}}}
 .foot{{height:120px;left:520px;padding:0 50px}}</style>
 <body><img class="ph" src="{ph}"><img class="lg" src="{R.L}">
-<div class="num">{note}<small>/5</small></div><img class="gl" src="{GL}"><div class="avis">{nb} avis clients</div>
+<div class="num">{note}<small>/5</small></div><img class="gl" src="{GL}"><div class="avis"><b class="big">{nb}</b> avis clients</div>
 <div class="t">Merci pour votre confiance</div><div class="rule"></div><div class="s">Merci à tous ceux qui ont laissé un avis.</div>
 <div class="foot"><div class="fl">Lyon et alentours</div><div class="btn" style="font-size:24px;padding:20px 32px">Devis gratuit</div></div>'''
 async def main(note,nb,photo,out,mode):
