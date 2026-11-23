@@ -8,7 +8,7 @@ def html(a,j):
     T=R.TH['pierre']
     return f'''<style>*{{margin:0;box-sizing:border-box}}body{{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:Poppins,sans-serif;background:{T["bg"]};color:{T["t"]}}}
 .p{{position:absolute;top:0;width:540px;height:800px;object-fit:cover;object-position:50% 25%}}
-.n{{position:absolute;top:714px;background:#fff;color:{R.N};font-size:28px;font-weight:800;padding:12px 24px}}
+.n{{position:absolute;top:690px;background:#fff;color:{R.N};font-size:28px;font-weight:800;padding:10px 24px;line-height:1.25}}.n small{{display:block;font-size:20px;font-weight:600;color:#4A5776}}
 .lg{{position:absolute;left:40px;top:40px;width:230px;padding:14px 18px;background:#fff}}
 .k{{position:absolute;left:80px;top:850px;font-size:25px;font-weight:700;letter-spacing:7px;color:{T["k"]}}}
 .t{{position:absolute;left:80px;top:896px;width:920px;font-size:62px;line-height:1.08;font-weight:800;letter-spacing:-1.5px}}
@@ -16,7 +16,7 @@ def html(a,j):
 .foot{{position:absolute;left:0;right:0;bottom:0;height:150px;background:{T["foot"]};display:flex;justify-content:space-between;align-items:center;padding:0 80px}}
 .fl{{font-size:28px;font-weight:700;color:{T["fl"]}}}.btn{{background:{T["btn"]};color:{T["btnt"]};font-size:30px;font-weight:800;padding:26px 48px}}</style>
 <body><img class="p" style="left:0" src="{b(a)}"><img class="p" style="left:540px" src="{b(j)}">
-<img class="lg" src="{R.L}"><div class="n" style="left:0">Anthony D'Orazio</div><div class="n" style="left:540px">Jordan D'Orazio</div>
+<img class="lg" src="{R.L}"><div class="n" style="left:0">Anthony D'Orazio<small>Gérant · Commercial et administratif</small></div><div class="n" style="left:540px">Jordan D'Orazio<small>Gérant · Technique et coordination</small></div>
 <div class="k">DEUX FRÈRES, UNE ENTREPRISE</div><div class="t">Anthony &amp; Jordan D'Orazio</div>
 <div class="s">Entreprise lyonnaise fondée en 2005, dirigée par Anthony et Jordan depuis 2019.</div>
 <div class="foot"><div class="fl">Lyon et alentours</div><div class="btn">Devis gratuit</div></div>'''
