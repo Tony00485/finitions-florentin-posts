@@ -68,7 +68,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | peinture/peinture-portail-gris-anthracite-exterieur-maison.jpg | 2026-11-19 (Google) |
 | peinture/peinture-preparation-mur-enduit-ratissage-poutres-cuisine-ouverte.jpg | 2026-12-17 (Reel) |
 | peinture/peinture-salon-ancien-jaune-ocre-parquet-chevrons.jpg | 2026-12-28 (Google) |
-| peinture/peinture-salon-blanc-cheminee-terre-cuite.jpg |  |
+| peinture/peinture-salon-blanc-cheminee-terre-cuite.jpg | 2026-11-26 (post note Google) |
 | peinture/peinture-salon-boiseries-blanches-cheminee-marbre-parquet.jpg | 2026-12-17 (Reel) |
 | peinture/peinture-salon-haussmannien-cheminee-marbre-rose.jpg | 2026-11-29 (Reel pendant/après) |
 | peinture/peinture-salon-haussmannien-lumineux-moulures-parquet-point-de-hongrie.jpg | 2026-12-17 (Reel) |
