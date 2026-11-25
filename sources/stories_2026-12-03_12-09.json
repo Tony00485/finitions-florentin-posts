@@ -1,0 +1,73 @@
+[
+ {
+  "out": "2026-12-03_story_cee",
+  "kind": "card",
+  "theme": "pierre",
+  "kick": "ISOLATION",
+  "title": "Le dossier CEE, on s’en occupe.",
+  "sub": "Selon l’éligibilité de votre projet.",
+  "foot": "Isolation intérieure · RGE"
+ },
+ {
+  "out": "2026-12-04_story_sinistre",
+  "kind": "split",
+  "theme": "marine",
+  "avant": "photos_selection/sinistre/sinistre-degat-des-eaux-plafond-avant-travaux.jpg",
+  "apres": "photos_selection/sinistre/sinistre-degat-des-eaux-plafond-refait-apres.jpg",
+  "taga": "AVANT",
+  "tagb": "APRÈS",
+  "title": "Après un dégât des eaux.",
+  "foot": "Devis pour l’assureur"
+ },
+ {
+  "out": "2026-12-05_story_bandes",
+  "kind": "photo",
+  "theme": "blanc",
+  "photo": "photos_selection/placo/placo-bandes-a-joints-murs-plafond-caissons.jpg",
+  "pos": "50% 50%",
+  "paneltop": 1230,
+  "kick": "PLÂTRERIE",
+  "title": "Bandes à joints et plafond à caissons.",
+  "foot": "Plâtrerie et peinture"
+ },
+ {
+  "out": "2026-12-06_story_bureaux",
+  "kind": "card",
+  "theme": "ciel",
+  "kick": "BUREAUX ET COMMERCES",
+  "title": "Un seul interlocuteur.",
+  "sub": "Plâtrerie, peinture, sols.",
+  "foot": "Locaux professionnels"
+ },
+ {
+  "out": "2026-12-07_story_pvc",
+  "kind": "photo",
+  "theme": "pierre",
+  "photo": "photos_selection/sols/pvc-moquette/sol-pvc-dalles-effet-beton-gris.jpg",
+  "pos": "50% 50%",
+  "paneltop": 1230,
+  "kick": "SOLS",
+  "title": "Un sol PVC effet béton.",
+  "foot": "Sols PVC et moquette"
+ },
+ {
+  "out": "2026-12-08_story_humidite",
+  "kind": "card",
+  "theme": "marine",
+  "kick": "PEINTURE",
+  "title": "Une tache d’humidité ?",
+  "sub": "On traite d’abord la cause.",
+  "foot": "Peinture et rénovation"
+ },
+ {
+  "out": "2026-12-09_story_escalier",
+  "kind": "photo",
+  "theme": "ciel",
+  "photo": "photos_selection/carrelage-faience/carrelage-escalier-exterieur-marches.jpg",
+  "pos": "50% 50%",
+  "paneltop": 1230,
+  "kick": "CARRELAGE",
+  "title": "Des marches carrelées.",
+  "foot": "Carrelage"
+ }
+]
