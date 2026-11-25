@@ -235,3 +235,5 @@ Post « Anthony & Jordan D'Orazio, gérants » programmé le 24/11 à 8h (IG/FB/
 
 NOTE GOOGLE (décision 23/11) : post 4,9/5 · 220 avis uniquement sur IG/FB/LinkedIn page (PAS sur la fiche Google, redondant). Visuel : tools/note_google_plain.py → ig/avis/note_google_ig.png (bandeau rouge « 220 avis clients »).
 POST NOTE GOOGLE PROGRAMMÉ : jeudi 26/11 à 8h (IG/FB/LinkedIn page), validé par Anthony le 23/11.
+
+NOTE 25/11/2026 : stories programmées jusqu'au 09/12 (sources/stories_2026-12-03_12-09.json). Photo placo-arche-cloison-plaques-de-platre-wc.jpg : marque de plaque lisible sur le placo, NE PAS l'utiliser.

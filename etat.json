@@ -630,7 +630,7 @@
    "faux_plafond (21/11)",
    "isolation_doublage (28/11)"
   ],
-  "stories_programmees_jusqu_au": "2026-12-02",
+  "stories_programmees_jusqu_au": "2026-12-09",
   "stories_26_11_02_12": {
    "source": "sources/stories_2026-11-26_12-02.json",
    "sujets": [
@@ -641,6 +641,18 @@
     "30/11 murs/plafonds/boiseries (carte)",
     "01/12 couleur couloir (carte)",
     "02/12 douche mosaïque (photo)"
+   ]
+  },
+  "stories_03_12_09_12": {
+   "source": "sources/stories_2026-12-03_12-09.json",
+   "sujets": [
+    "03/12 CEE (carte)",
+    "04/12 avant/après dégât des eaux (split)",
+    "05/12 bandes à joints plafond à caissons (photo)",
+    "06/12 bureaux un seul interlocuteur (carte)",
+    "07/12 sol PVC effet béton (photo)",
+    "08/12 tache d'humidité (carte)",
+    "09/12 marches carrelées (photo)"
    ]
   }
  }

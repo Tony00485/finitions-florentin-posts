@@ -14,7 +14,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | carrelage-faience/carrelage-douche-mosaique-galets-naturels.jpg | 2026-12-02 (story) |
 | carrelage-faience/carrelage-douche-mosaique-hexagonale-banc.jpg | 2026-11-17 |
 | carrelage-faience/carrelage-douche-pierre-travertin-receveur.jpg | 2026-12-03 |
-| carrelage-faience/carrelage-escalier-exterieur-marches.jpg |  |
+| carrelage-faience/carrelage-escalier-exterieur-marches.jpg | 2026-12-09 (story) |
 | carrelage-faience/carrelage-grand-format-effet-metal-oxyde.jpg | 2026-12-11 (Reel) |
 | carrelage-faience/carrelage-mur-gris-grand-format-salle-de-bains.jpg | 2026-12-20 (Reel) |
 | carrelage-faience/carrelage-salle-de-bains-mosaique-blanche-baignoire.jpg | 2026-12-20 (Reel) |
@@ -78,7 +78,7 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | placo/placo-arche-cloison-plaques-de-platre-wc.jpg |  |
 | placo/placo-arche-cloison-poutre-metallique.jpg | 2026-12-22 (Reel) |
 | placo/placo-bandes-a-joints-couloir-bureaux-plafond-dalles.jpg | 2026-12-06 (Reel) |
-| placo/placo-bandes-a-joints-murs-plafond-caissons.jpg |  |
+| placo/placo-bandes-a-joints-murs-plafond-caissons.jpg | 2026-12-05 (story) |
 | placo/placo-bibliotheque-niches-plaques-de-platre.jpg | 2026-12-30 |
 | placo/placo-cloison-allege-verriere-noire-bureaux.jpg | 2026-11-26 (Google) |
 | placo/placo-cloison-arrondie-plafond-bandes.jpg | 2026-12-22 (Reel) |
@@ -116,10 +116,10 @@ Marquer chaque photo utilisée dans la colonne de droite (date).
 | sols/pvc-moquette/moquette-dalles-grises-bureaux-lumineux.jpg | 2026-12-17 (Google) |
 | sols/pvc-moquette/moquette-gris-chine-bureaux-blancs.jpg | 2026-12-06 (Reel) |
 | sols/pvc-moquette/sol-pvc-batons-rompus-couloir-vert-pale.jpg | 2026-12-08 |
-| sols/pvc-moquette/sol-pvc-dalles-effet-beton-gris.jpg |  |
+| sols/pvc-moquette/sol-pvc-dalles-effet-beton-gris.jpg | 2026-12-07 (story) |
 | sols/pvc-moquette/sol-pvc-lames-effet-bois-espace-bureaux.jpg | 2026-12-06 (Reel) |
 | sols/sol-ragreage-autolissant-couloir-appartement.jpg | 2026-12-14 (Google) |
 | peinture/peinture-salon-haussmannien-cheminee-marbre-rose-preparation-ratissage.jpg | 2026-11-29 (Reel pendant/après) — photo PENDANT (préparation, ratissage) du même salon, envoyée par le gérant le 08/11 |
-| sinistre/sinistre-degat-des-eaux-plafond-avant-travaux.jpg | 2026-12-04 (Reel) — vraie photo AVANT (dégât des eaux), même pièce que les 2 suivantes |
+| sinistre/sinistre-degat-des-eaux-plafond-avant-travaux.jpg | 2026-12-04 (Reel, story) — vraie photo AVANT (dégât des eaux), même pièce que les 2 suivantes |
 | sinistre/sinistre-degat-des-eaux-plafond-preparation-enduit.jpg | 2026-12-04 (Reel) — PENDANT (enduit, ratissage) |
 | sinistre/sinistre-degat-des-eaux-plafond-refait-apres.jpg | 2026-12-04 (Reel) — APRÈS (plafond refait) |
