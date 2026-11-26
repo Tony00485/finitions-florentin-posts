@@ -237,3 +237,5 @@ NOTE GOOGLE (décision 23/11) : post 4,9/5 · 220 avis uniquement sur IG/FB/Link
 POST NOTE GOOGLE PROGRAMMÉ : jeudi 26/11 à 8h (IG/FB/LinkedIn page), validé par Anthony le 23/11.
 
 NOTE 25/11/2026 : stories programmées jusqu'au 09/12 (sources/stories_2026-12-03_12-09.json). Photo placo-arche-cloison-plaques-de-platre-wc.jpg : marque de plaque lisible sur le placo, NE PAS l'utiliser.
+
+NOTE 26/11 : story d'avis client (Valentin) reprise EN ENTIER à la demande d'Anthony, y compris le mot « artisans » (citation d'un client, nom corrigé en « D'Orazio »). La règle « jamais le mot artisan » reste valable pour tous nos propres textes.
