@@ -239,3 +239,5 @@ POST NOTE GOOGLE PROGRAMMÉ : jeudi 26/11 à 8h (IG/FB/LinkedIn page), validé p
 NOTE 25/11/2026 : stories programmées jusqu'au 09/12 (sources/stories_2026-12-03_12-09.json). Photo placo-arche-cloison-plaques-de-platre-wc.jpg : marque de plaque lisible sur le placo, NE PAS l'utiliser.
 
 NOTE 26/11 : story d'avis client (Valentin) reprise EN ENTIER à la demande d'Anthony, y compris le mot « artisans » (citation d'un client, nom corrigé en « D'Orazio »). La règle « jamais le mot artisan » reste valable pour tous nos propres textes.
+
+STORIES « AVIS CLIENTS » PROGRAMMÉES : vendredi 27/11 de 19h00 à 19h16 (9 stories, IG uniquement). Source : tools/story_avis.py → ig/stories/avis/. Clients anonymisés (« Client · type de chantier »). Anthony les range lui-même en « à la une » → « Avis clients ». Josephine retirée (demande d'Anthony). Post fil avec un seul avis : proposé (dimanche), non demandé.
