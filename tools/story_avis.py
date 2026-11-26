@@ -14,6 +14,8 @@ AVIS=[
 ("Le chantier a été rapide, bien préparé au préalable, et les travaux très bien effectués. Le suivi client a également été très satisfaisant. Je recommande donc cette entreprise que je remercie par ailleurs pour son professionnalisme.","Client · rénovation d'un appartement"),
 ("Monsieur d'Orazio et son équipe sont intervenus avec une contrainte, de mon côté, de travaux à réaliser au plus vite. Les délais ont été respectés et la qualité était au rendez-vous ! Je recommande grandement Finitions Florentin et son équipe. Un grand merci pour leur professionnalisme !","Client · travaux à réaliser au plus vite"),
 ("Nous avons fait appel à la société Finitions Florentin pour refaire notre salle de bains et notre wc (murs, plafond, carrelage, peinture et sol). Travail soigné, employé efficace et les patrons … sont facilement joignables et à l'écoute.","Client · salle de bains et WC"),
+("Nous avons été comblés par les services de finitions florentin. Un accueil sympathique et un devis clair nous ont inspiré confiance … Nous avons beaucoup apprécié le travail de finition effectué, le respect de l'engagement pris et la sympathie de l'équipe …","Client · préparation d'une nouvelle cuisine"),
+("Réactivité, sérieux, disponibilité, gentillesse, efficacité, clarté dans les devis … Leurs équipes sont efficaces, le travail est bien fait ! En résumé, Bravo Messieurs !","Client · rénovation à Lyon"),
 ]
 BASE=f'''*{{margin:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:Poppins,sans-serif;background:{T["bg"]};color:{T["t"]}}}
 .lg{{position:absolute;left:60px;top:110px;width:260px;padding:16px 20px;background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.18)}}
@@ -52,7 +54,7 @@ def outro():
 async def main(out):
     from playwright.async_api import async_playwright
     os.makedirs(out,exist_ok=True)
-    pages=[("avis_0_intro",intro())]+[(f"avis_{i}",avis(i,t,w)) for i,(t,w) in enumerate(AVIS,1)]+[("avis_7_merci",outro())]
+    pages=[("avis_0_intro",intro())]+[(f"avis_{i}",avis(i,t,w)) for i,(t,w) in enumerate(AVIS,1)]+[("avis_9_merci",outro())]
     async with async_playwright() as p:
         br=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
         pg=await br.new_page(viewport={"width":1080,"height":1920})
