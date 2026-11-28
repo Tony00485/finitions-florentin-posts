@@ -1,0 +1,11 @@
+{
+ "steps": [
+  {"photo": "photos_selection/peinture/peinture-mur-rouge-vif-niches-blanches-ondulees.jpg", "tag": "1 · ROUGE VIF", "cap": "Un mur rouge, niches blanches", "hook": "Tu choisis laquelle ? 1, 2, 3 ou 4"},
+  {"photo": "photos_selection/peinture/peinture-mur-vagues-terracotta-ocre-beige.jpg", "tag": "2 · TERRACOTTA", "cap": "Des vagues terracotta et ocre"},
+  {"photo": "photos_selection/peinture/peinture-salon-ancien-jaune-ocre-parquet-chevrons.jpg", "tag": "3 · JAUNE OCRE", "cap": "Un salon ancien, parquet en chevrons"},
+  {"photo": "photos_selection/peinture/peinture-couloir-bleu-nuit-porte-integree.jpg", "tag": "4 · BLEU NUIT", "cap": "Un couloir, porte intégrée"}
+ ],
+ "end": {"kind": "card", "theme": "degrade", "kick": "COULEURS · LYON", "title": "Ton choix ?", "sub": "Réponds 1, 2, 3 ou 4 en commentaire. Abonne-toi pour suivre nos chantiers.", "foot": "Devis gratuit · message privé"},
+ "dur": 2.4,
+ "fade": 0.5
+}
